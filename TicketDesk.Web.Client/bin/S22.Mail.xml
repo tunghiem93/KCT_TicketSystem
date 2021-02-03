@@ -1,0 +1,703 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>S22.Mail</name>
+    </assembly>
+    <members>
+        <member name="T:S22.Imap.Bodypart">
+            <summary>
+            Represents a MIME body part of a mail message that has multiple
+            parts.
+            </summary>
+        </member>
+        <member name="M:S22.Imap.Bodypart.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the Bodypart class with default
+            values.
+            </summary>
+            <param name="partNumber">The part number as is expected by the
+            IMAP FETCH command.</param>
+        </member>
+        <member name="P:S22.Imap.Bodypart.PartNumber">
+            <summary>
+            The body part number which acts as part specifier for
+            the FETCH BODY command.
+            </summary>
+        </member>
+        <member name="P:S22.Imap.Bodypart.Type">
+            <summary>
+            The MIME content-type of this body part. The content-type is
+            used to declare the general type of data.
+            </summary>
+        </member>
+        <member name="P:S22.Imap.Bodypart.Subtype">
+            <summary>
+            The MIME content-subtype of this body part. The subtype
+            specifies a specific format for the type of data.
+            </summary>
+        </member>
+        <member name="P:S22.Imap.Bodypart.Parameters">
+            <summary>
+            Parameter values present in the MIME content-type header
+            of this body part (for instance, 'charset').
+            </summary>
+        </member>
+        <member name="P:S22.Imap.Bodypart.Id">
+            <summary>
+            The MIME content-id of this body part, if any. This value
+            may be used for uniquely identifying MIME entities in
+            several contexts.
+            </summary>
+        </member>
+        <member name="P:S22.Imap.Bodypart.Description">
+            <summary>
+            The MIME content-description of this body part. This value
+            may contain some descriptive information on the body part.
+            </summary>
+        </member>
+        <member name="P:S22.Imap.Bodypart.Encoding">
+            <summary>
+            The MIME content-transfer-encoding mechanism used for
+            encoding this body part's data.
+            </summary>
+        </member>
+        <member name="P:S22.Imap.Bodypart.Size">
+            <summary>
+            The size of this body part in bytes. Note that this size
+            is the size in its transfer encoding and not the resulting
+            size after any decoding.
+            </summary>
+        </member>
+        <member name="P:S22.Imap.Bodypart.Lines">
+            <summary>
+            The size of the body in text lines. This field is only
+            present in body parts with a content-type of text.
+            </summary>
+        </member>
+        <member name="P:S22.Imap.Bodypart.Md5">
+            <summary>
+            The computed MD5-Hash of the body part. This field is not
+            mandatory and may be empty.
+            </summary>
+        </member>
+        <member name="P:S22.Imap.Bodypart.Disposition">
+            <summary>
+            The MIME content-disposition for this body part. This field
+            is not mandatory and may be empty.
+            </summary>
+        </member>
+        <member name="P:S22.Imap.Bodypart.Language">
+            <summary>
+            A string giving the body language. This field is not mandatory
+            and may be empty.
+            </summary>
+        </member>
+        <member name="P:S22.Imap.Bodypart.Location">
+            <summary>
+            A string list giving the body content URI. This field is not
+            mandatory and may be empty.
+            </summary>
+        </member>
+        <member name="M:S22.Imap.Bodypart.ToString">
+            <summary>
+            Returns a detailed description listing all properties of this
+            Bodypart instance.
+            </summary>
+            <returns>A string describing this instance of the Bodypart class</returns>
+        </member>
+        <member name="T:S22.Imap.ContentDisposition">
+            <summary>
+            Represents the content disposition as is presented in the BODYSTRUCTURE
+            response by the IMAP server.
+            </summary>
+        </member>
+        <member name="M:S22.Imap.ContentDisposition.#ctor">
+            <summary>
+            Initializes a new instance of the ContentDisposition class with
+            default values.
+            </summary>
+        </member>
+        <member name="P:S22.Imap.ContentDisposition.Type">
+            <summary>
+            The content disposition specifies the presentation style.
+            </summary>
+        </member>
+        <member name="P:S22.Imap.ContentDisposition.Attributes">
+            <summary>
+            Additional attribute fields for specifying the name of a file, the creation
+            date and modification date, which can be used by the reader's mail user agent
+            to store the attachment.
+            </summary>
+        </member>
+        <member name="P:S22.Imap.ContentDisposition.Filename">
+            <summary>
+            Contains the name of the transmitted file if the content-disposition is of type
+            "Attachment" and if the name value was provided as part of the header information.
+            This field may be empty.
+            </summary>
+        </member>
+        <member name="F:S22.Imap.ContentDisposition.Map">
+            <summary>
+            Maps MIME content disposition string values to their corresponding
+            counter-parts of the ContentDispositionType enumeration.
+            </summary>
+        </member>
+        <member name="T:S22.Imap.ContentDispositionType">
+            <summary>
+            Possible values for the content disposition type which determines the presentation
+            style
+            </summary>
+        </member>
+        <member name="F:S22.Imap.ContentDispositionType.Unknown">
+            <summary>
+            The content disposition could not be determined.
+            </summary>
+        </member>
+        <member name="F:S22.Imap.ContentDispositionType.Inline">
+            <summary>
+            An inline content disposition means that the content should be automatically
+            displayed when the message is displayed.
+            </summary>
+        </member>
+        <member name="F:S22.Imap.ContentDispositionType.Attachment">
+            <summary>
+            An attachment content disposition means that the content should not be displayed
+            automatically and requires some form of action from the user to open it.
+            </summary>
+        </member>
+        <member name="T:S22.Imap.ContentTransferEncoding">
+            <summary>
+            Possible values for the "Encoding" property of the Bodypart class. The content
+            transfer encoding indicates whether or not a binary-to-text encoding
+            scheme has been used on top of the original encoding as specified within the
+            Content-Type header.
+            </summary>
+        </member>
+        <member name="F:S22.Imap.ContentTransferEncoding.Unknown">
+            <summary>
+            The content tranfer encoding could not be determined or is unknown.
+            </summary>
+        </member>
+        <member name="F:S22.Imap.ContentTransferEncoding.Bit7">
+            <summary>
+            Up to 998 bytes per line of the code range 1 - 127 with CR and LF only
+            allowed to appear as part of a CRLF line ending.
+            </summary>
+        </member>
+        <member name="F:S22.Imap.ContentTransferEncoding.Bit8">
+            <summary>
+            Up to 998 bytes per line with CR and LF only allowed to appear as part
+            of a CRLF line ending.
+            </summary>
+        </member>
+        <member name="F:S22.Imap.ContentTransferEncoding.Binary">
+            <summary>
+            Any sequence of bytes.
+            </summary>
+        </member>
+        <member name="F:S22.Imap.ContentTransferEncoding.QuotedPrintable">
+            <summary>
+            Byte sequence is encoded using the quoted-printable encoding.
+            </summary>
+        </member>
+        <member name="F:S22.Imap.ContentTransferEncoding.Base64">
+            <summary>
+            Byte sequence is encoded using Base64 encoding.
+            </summary>
+        </member>
+        <member name="T:S22.Imap.ContentType">
+            <summary>
+            Possible values for the "Type" property of the Bodypart class.
+            For a detailed description of MIME Media Types refer to
+            RFC 2046.
+            </summary>
+        </member>
+        <member name="F:S22.Imap.ContentType.Text">
+            <summary>
+            The "text" media type is intended for sending material which
+            is principally textual in form.
+            </summary>
+        </member>
+        <member name="F:S22.Imap.ContentType.Image">
+            <summary>
+            A media type of "image" indicates that the body contains an image.
+            The subtype names the specific image format. 
+            </summary>
+        </member>
+        <member name="F:S22.Imap.ContentType.Audio">
+            <summary>
+            A media type of "audio" indicates that the body contains audio
+            data.
+            </summary>
+        </member>
+        <member name="F:S22.Imap.ContentType.Video">
+            <summary>
+            A media type of "video" indicates that the body contains a
+            time-varying-picture image, possibly with color and coordinated sound.
+            </summary>
+        </member>
+        <member name="F:S22.Imap.ContentType.Application">
+            <summary>
+            The "application" media type is to be used for discrete data which do
+            not fit in any of the other categories, and particularly for data to
+            be processed by some type of application program.
+            </summary>
+        </member>
+        <member name="F:S22.Imap.ContentType.Message">
+            <summary>
+            The "message" content type allows messages to contain other messages
+            or pointers to other messages.
+            </summary>
+        </member>
+        <member name="F:S22.Imap.ContentType.Other">
+            <summary>
+            The media type value is unknown or could not be determined.
+            </summary>
+        </member>
+        <member name="T:S22.Imap.MailMessageExtension">
+            <summary>
+            Adds extension methods to the MailMessage class of the .Net Framework.
+            These are only used internally and are not visible outside of the
+            S22.Imap assembly so as to not interfere with other assemblies.
+            </summary>
+        </member>
+        <member name="M:S22.Imap.MailMessageExtension.ToMIME822(System.Net.Mail.MailMessage)">
+            <summary>
+            Constructs a textual representation of a mail message from the specified
+            MailMessage instance compliant with the RFC822 and MIME standards.
+            </summary>
+            <param name="message">The MailMessage instance to construct the
+            textual representation from.</param>
+            <returns>An RFC822/MIME-compliant string describing a mail
+            message.</returns>
+            <exception cref="T:System.InvalidOperationException">Thrown if the From
+            property is null or is not properly initialized.</exception>
+        </member>
+        <member name="M:S22.Imap.MailMessageExtension.BuildHeader(System.Net.Mail.MailMessage)">
+            <summary>
+            Builds a RFC822/MIME-compliant mail header from the specified
+            MailMessage instance and returns it as a NameValueCollection.
+            </summary>
+            <param name="m">The MailMessage instance to build the header
+            from.</param>
+            <returns>A NameValueCollection representing the RFC822/MIME
+            mail header fields.</returns>
+        </member>
+        <member name="F:S22.Imap.MailMessageExtension.PriorityMap">
+            <summary>
+            A map for mapping the values of the MailPriority enumeration to
+            their corresponding MIME priority values as defined in
+            RFC2156.
+            </summary>
+        </member>
+        <member name="F:S22.Imap.MailMessageExtension.ImportanceMap">
+            <summary>
+            A map for mapping the values of the MailPriority enumeration to
+            their corresponding MIME importance values as defined in
+            RFC2156.
+            </summary>
+        </member>
+        <member name="M:S22.Imap.MailMessageExtension.QEncode(System.String)">
+            <summary>
+            Takes a unicode string and encodes it using Q-encoding.
+            </summary>
+            <param name="s">The string to encode</param>
+            <returns>The input string encoded as Q-encoded string containing
+            only ASCII characters.</returns>
+        </member>
+        <member name="M:S22.Imap.MailMessageExtension.To822Address(System.Net.Mail.MailAddress)">
+            <summary>
+            Creates an address string from the specified MailAddress instance in
+            compliance with the address specification as outlined in RFC2822 under
+            section 3.4
+            </summary>
+            <param name="address">The MailAddress instance to create the address
+            string from.</param>
+            <returns>An address string as is used in RFC822 mail headers</returns>
+        </member>
+        <member name="M:S22.Imap.MailMessageExtension.GenerateContentBoundary">
+            <summary>
+            Generates a unique sequence of characters for indicating a boundary
+            between parts in a multipart message.
+            </summary>
+            <returns>A unique content boundary string</returns>
+        </member>
+        <member name="M:S22.Imap.MailMessageExtension.BuildBody(System.Net.Mail.MailMessage,System.Collections.Specialized.NameValueCollection)">
+            <summary>
+            Builds an RFC822/MIME-compliant mail body from the specified
+            MailMessage instance and returns it as a formatted string.
+            </summary>
+            <param name="m">The MailMessage instance to build the mail body
+            from.</param>
+            <param name="header">The RFC822/MIME mail header to use for
+            constructing the mail body.</param>
+            <returns>An RFC822/MIME-compliant mail body as a string.
+            </returns>
+            <remarks>According to RFC2822 each line of a mail message should
+            at max be 78 characters in length excluding carriage return and
+            newline characters. This method accounts for that and ensures
+            line breaks are inserted to meet this requirement.</remarks>
+        </member>
+        <member name="M:S22.Imap.MailMessageExtension.AddBody(System.Text.StringBuilder,System.Net.Mail.MailMessage,System.Collections.Specialized.NameValueCollection,System.Boolean)">
+            <summary>
+            Adds a body part to the specified Stringbuilder object composed from
+            the Body and BodyEncoding properties of the MailMessage class.
+            </summary>
+            <param name="builder">The Stringbuilder to append the body part to.</param>
+            <param name="m">The MailMessage instance to build the body part from.</param>
+            <param name="header">The RFC822/MIME mail header to use for
+            constructing the mail body.</param>
+            <param name="addHeaders">Set to true to append body headers before
+            adding the actual body part content.</param>
+        </member>
+        <member name="M:S22.Imap.MailMessageExtension.AddAttachment(System.Text.StringBuilder,System.Net.Mail.AttachmentBase)">
+            <summary>
+            Creates a MIME body part from an entry of the AlternateView or
+            Attachments collection of a MailMessage instance and appends it
+            to the specified Stringbuilder instance.
+            </summary>
+            <param name="builder">The Stringbuilder instance to append the
+            body part to.</param>
+            <param name="view">An entry from either the AlternateView or the
+            Attachments collection of a MailMessage instance.</param>
+        </member>
+        <member name="M:S22.Imap.MailMessageExtension.AddNestedAlternative(System.Text.StringBuilder,System.Net.Mail.MailMessage,System.Collections.Specialized.NameValueCollection)">
+            <summary>
+            Creates a nested multipart/alternative part which contains all entries
+            from the AlternateViews collection of the specified MailMessage instance
+            as well as the body part for the Body and BodyEncoding properties of the
+            specified MailMessage instance.
+            </summary>
+            <param name="builder">The StringBuilder instance to append to.</param>
+            <param name="m">The MailMessage instance whose AlternateView collection
+            will be added to the nested multipart/alternative part.</param>
+            <param name="header">The RFC822/MIME mail header to use for
+            constructing the mail body.</param>
+            <remarks>This is used if the MailMessage instance contains both alternative
+            views and attachments. In this case the created RFC822/MIME mail message will
+            contain nested body parts.</remarks>
+        </member>
+        <member name="M:S22.Imap.MailMessageExtension.AddNestedMixed(System.Text.StringBuilder,System.Net.Mail.MailMessage)">
+            <summary>
+            Creates a nested multipart/mixed part which contains all entries
+            from the Attachments collection of the specified MailMessage instance.
+            </summary>
+            <param name="builder">The StringBuilder instance to append to.</param>
+            <param name="m">The MailMessage instance whose Attachments collection
+            will be added to the nested multipart/mixed part.</param>
+            <remarks>This is used if the MailMessage instance contains both alternative
+            views and attachments. In this case the created RFC822/MIME mail message will
+            contain nested body parts.</remarks>
+        </member>
+        <member name="T:S22.Imap.MessageBuilder">
+            <summary>
+            A helper class for reading mail message data and building a MailMessage
+            instance out of it.
+            </summary>
+        </member>
+        <member name="M:S22.Imap.MessageBuilder.FromHeader(System.String)">
+            <summary>
+            Creates a new empty instance of the MailMessage class from a string
+            containing a raw mail message header.
+            </summary>
+            <param name="text">A string containing the mail header to create
+            the MailMessage instance from.</param>
+            <returns>A MailMessage instance with initialized Header fields but
+            no content</returns>
+        </member>
+        <member name="M:S22.Imap.MessageBuilder.FromMIME822(System.String)">
+            <summary>
+            Creates a new instance of the MailMessage class from a string
+            containing raw RFC822/MIME mail message data.
+            </summary>
+            <param name="text">A string containing the mail message data to
+            create the MailMessage instance from.</param>
+            <returns>An initialized instance of the MailMessage class.</returns>
+            <remarks>This is used when fetching entire messages instead
+            of the partial-fetch mechanism because it saves redundant
+            round-trips to the server.</remarks>
+        </member>
+        <member name="M:S22.Imap.MessageBuilder.ParseMailHeader(System.String)">
+            <summary>
+            Parses the mail header of a mail message and returns it as a
+            NameValueCollection.
+            </summary>
+            <param name="header">The mail header to parse.</param>
+            <returns>A NameValueCollection containing the header fields as keys
+            with their respective values as values.</returns>
+        </member>
+        <member name="M:S22.Imap.MessageBuilder.ParseMIMEField(System.String)">
+            <summary>
+            Parses a MIME header field which can contain multiple 'parameter = value'
+            pairs (such as Content-Type: text/html; charset=iso-8859-1).
+            </summary>
+            <param name="field">The header field to parse</param>
+            <returns>A NameValueCollection containing the parameter names as keys
+            with the respective parameter values as values.</returns>
+            <remarks>The value of the actual field disregarding the 'parameter = value'
+            pairs is stored in the collection under the key "value" (in the above example
+            of Content-Type, this would be "text/html").</remarks>
+        </member>
+        <member name="M:S22.Imap.MessageBuilder.ParseAddressList(System.String)">
+            <summary>
+            Parses a mail header address-list field such as To, Cc and Bcc which
+            can contain multiple email addresses.
+            </summary>
+            <param name="list">The address-list field to parse</param>
+            <returns>An array of MailAddress objects representing the parsed
+            mail addresses.</returns>
+        </member>
+        <member name="M:S22.Imap.MessageBuilder.ParseMessageId(System.String)">
+            <summary>
+            Parses a mail message identifier from a string.
+            </summary>
+            <param name="field">The field to parse the message id from</param>
+            <exception cref="T:System.ArgumentException">Thrown when the field
+            argument does not contain a valid message identifier.</exception>
+            <returns>The parsed message id</returns>
+            <remarks>A message identifier (msg-id) is a globally unique
+            identifier for a message.</remarks>
+        </member>
+        <member name="M:S22.Imap.MessageBuilder.ParsePriority(System.String)">
+            <summary>
+            Parses the priority of a mail message which can be specified
+            as part of the header information.
+            </summary>
+            <param name="priority">The mail header priority value. The value
+            can be null in which case a "normal priority" is returned.</param>
+            <returns>A value from the MailPriority enumeration corresponding to
+            the specified mail priority. If the passed priority value is null
+            or invalid, a normal priority is assumed and MailPriority.Normal
+            is returned.</returns>
+        </member>
+        <member name="M:S22.Imap.MessageBuilder.SetAddressFields(System.Net.Mail.MailMessage,System.Collections.Specialized.NameValueCollection)">
+            <summary>
+            Sets the address fields (From, To, CC, etc.) of a MailMessage
+            object using the specified mail message header information.
+            </summary>
+            <param name="m">The MailMessage instance to operate on</param>
+            <param name="header">A collection of mail and MIME headers</param>
+        </member>
+        <member name="M:S22.Imap.MessageBuilder.AddBodypart(System.Net.Mail.MailMessage,S22.Imap.Bodypart,System.String)">
+            <summary>
+            Adds a body part to an existing MailMessage instance.
+            </summary>
+            <param name="message">Extension method for the MailMessage class.</param>
+            <param name="part">The body part to add to the MailMessage instance.</param>
+            <param name="content">The content of the body part.</param>
+        </member>
+        <member name="M:S22.Imap.MessageBuilder.CreateAttachment(S22.Imap.Bodypart,System.Byte[])">
+            <summary>
+            Creates an instance of the Attachment class used by the MailMessage class
+            to store mail message attachments.
+            </summary>
+            <param name="part">The MIME body part to create the attachment from.</param>
+            <param name="bytes">An array of bytes composing the content of the
+            attachment</param>
+            <returns>An initialized instance of the Attachment class</returns>
+        </member>
+        <member name="M:S22.Imap.MessageBuilder.CreateAlternateView(S22.Imap.Bodypart,System.Byte[])">
+            <summary>
+            Creates an instance of the AlternateView class used by the MailMessage class
+            to store alternate views of the mail message's content.
+            </summary>
+            <param name="part">The MIME body part to create the alternate view from.</param>
+            <param name="bytes">An array of bytes composing the content of the
+            alternate view</param>
+            <returns>An initialized instance of the AlternateView class</returns>
+        </member>
+        <member name="M:S22.Imap.MessageBuilder.ParseMailBody(System.String,System.Collections.Specialized.NameValueCollection)">
+            <summary>
+            Parses the body part of a MIME/RFC822 mail message.
+            </summary>
+            <param name="body">The body of the mail message.</param>
+            <param name="header">The header of the mail message whose body
+            will be parsed.</param>
+            <returns>An array of initialized MIMEPart instances representing
+            the body parts of the mail message.</returns>
+        </member>
+        <member name="M:S22.Imap.MessageBuilder.ParseMIMEParts(System.IO.StringReader,System.String)">
+            <summary>
+            Parses the body of a multipart MIME mail message.
+            </summary>
+            <param name="reader">An instance of the StringReader class initialized
+            with a string containing the body of the mail message.</param>
+            <param name="boundary">The boundary value as is present as part of
+            the Content-Type header field in multipart mail messages.</param>
+            <returns>An array of initialized MIMEPart instances representing
+            the various parts of the MIME mail message.</returns>
+        </member>
+        <member name="M:S22.Imap.MessageBuilder.BodypartFromMIME(S22.Imap.MIMEPart)">
+            <summary>
+            Glue method to create a bodypart from a MIMEPart instance.
+            </summary>
+            <param name="mimePart">The MIMEPart instance to create the
+            bodypart instance from.</param>
+            <returns>An initialized instance of the Bodypart class.</returns>
+        </member>
+        <member name="T:S22.Imap.MIMEPart">
+            <summary>
+            Represents a part of a MIME multi-part message. Each part consists
+            of its own content header and a content body.
+            </summary>
+            <remarks>This has been recycled from the S22.Imap project.</remarks>
+        </member>
+        <member name="P:S22.Imap.MIMEPart.header">
+            <summary>
+            A collection containing the content header information as
+            key-value pairs.
+            </summary>
+        </member>
+        <member name="P:S22.Imap.MIMEPart.body">
+            <summary>
+            A string containing the content body of the part.
+            </summary>
+        </member>
+        <member name="T:S22.Imap.Util">
+            <summary>
+            A static utility class containing methods for decoding encoded
+            non-ASCII data as is often used in mail messages as well as
+            extension methods for some existing classes.
+            </summary>
+        </member>
+        <member name="M:S22.Imap.Util.IsASCII(System.String)">
+            <summary>
+            Returns true if the string contains only ASCII characters.
+            </summary>
+            <param name="s">Extension method for the String class.</param>
+            <returns>Returns true if the string contains only ASCII characters,
+            otherwise false is returned.</returns>
+        </member>
+        <member name="M:S22.Imap.Util.DecodeWords(System.String)">
+            <summary>
+            Decodes a string composed of one or several MIME 'encoded-words'.
+            </summary>
+            <param name="words">A string to composed of one or several MIME
+            'encoded-words'</param>
+            <exception cref="T:System.FormatException">Thrown when an unknown encoding
+            (other than Q-Encoding or Base64) is encountered.</exception>
+            <returns>A concatenation of all enconded-words in the passed
+            string</returns>
+        </member>
+        <member name="M:S22.Imap.Util.DecodeWord(System.String)">
+            <summary>
+            Decodes a MIME 'encoded-word' string.
+            </summary>
+            <param name="word">The encoded word to decode</param>
+            <exception cref="T:System.FormatException">Thrown when an unknown encoding
+            (other than Q-Encoding or Base64) is encountered.</exception>
+            <returns>A decoded string</returns>
+            <remarks>MIME encoded-word syntax is a way to encode strings that
+            contain non-ASCII data. Commonly used encodings for the encoded-word
+            sytax are Q-Encoding and Base64. For an in-depth description, refer
+            to RFC 2047</remarks>
+        </member>
+        <member name="M:S22.Imap.Util.QDecode(System.String,System.Text.Encoding)">
+            <summary>
+            Takes a Q-encoded string and decodes it using the specified
+            encoding.
+            </summary>
+            <param name="value">The Q-encoded string to decode</param>
+            <param name="encoding">The encoding to use for encoding the
+            returned string</param>
+            <exception cref="T:System.FormatException">Thrown if the string is
+            not a valid Q-encoded string.</exception>
+            <returns>A Q-decoded string</returns>
+        </member>
+        <member name="M:S22.Imap.Util.QPDecode(System.String,System.Text.Encoding)">
+            <summary>
+            Takes a quoted-printable encoded string and decodes it using
+            the specified encoding.
+            </summary>
+            <param name="value">The quoted-printable-encoded string to
+            decode</param>
+            <param name="encoding">The encoding to use for encoding the
+            returned string</param>
+            <exception cref="T:System.FormatException">Thrown if the string is
+            not a valid quoted-printable encoded string.</exception>
+            <returns>A quoted-printable decoded string</returns>
+        </member>
+        <member name="M:S22.Imap.Util.Base64Decode(System.String)">
+            <summary>
+            Takes a Base64-encoded string and decodes it.
+            </summary>
+            <param name="value">The Base64-encoded string to decode</param>
+            <returns>A byte array containing the Base64-decoded bytes
+            of the input string.</returns>
+        </member>
+        <member name="M:S22.Imap.Util.GetEncoding(System.String)">
+            <summary>
+            This just wraps Encoding.GetEncoding in a try-catch block to
+            ensure it never fails. If the encoding can not be determined
+            ASCII is returned as a default.
+            </summary>
+            <param name="name">The code page name of the preferred encoding.
+            Any value returned by System.Text.Encoding.WebName is a valid
+            input.</param>
+            <returns>The System.Text.Encoding associated with the specified
+            code page or Encoding.ASCII if the specified code page could not
+            be resolved.</returns>
+        </member>
+        <member name="T:S22.Mail.MailExtension">
+            <summary>
+            Contains extension methods for the MailMessage class of the System.Net.Mail
+            namespace.
+            </summary>
+        </member>
+        <member name="M:S22.Mail.MailExtension.Save(System.Net.Mail.MailMessage,System.IO.Stream)">
+            <summary>
+            Saves the MailMessage instance to the specified stream.
+            </summary>
+            <param name="m">Extension method for MailMessage class.</param>
+            <param name="stream">The stream the MailMessage data will be
+            written to.</param>
+            <remarks>The mail message is saved as plain text in MIME
+            format (known as .eml in many email clients)</remarks>
+        </member>
+        <member name="M:S22.Mail.MailExtension.Save(System.Net.Mail.MailMessage,System.String)">
+            <summary>
+            Saves the MailMessage instance to the specified file.
+            </summary>
+            <param name="m">Extension method for MailMessage class</param>
+            <param name="name">A relative or absolute path for the file the
+            MailMessage will be saved to.</param>
+            <remarks>The mail message is saved as plain text in MIME
+            format (known as .eml in many email clients)</remarks> 
+        </member>
+        <member name="M:S22.Mail.MailExtension.Load(System.IO.Stream)">
+            <summary>
+            Creates a MailMessage instance from the specified stream.
+            </summary>
+            <param name="stream">The stream the MailMessage will be constructed
+            from.</param>
+            <returns>An initialized MailMessage object</returns>
+        </member>
+        <member name="M:S22.Mail.MailExtension.Load(System.String)">
+            <summary>
+            Creates a MailMessage instance from the specified file (*.eml).
+            </summary>
+            <param name="name">A relative or absolute path for the file the
+            MailMessage will be saved to.</param>
+            <returns>An initialized MailMessage object</returns>
+        </member>
+        <member name="M:S22.Mail.MailExtension.SaveAs(System.Net.Mail.Attachment,System.String)">
+            <summary>
+            Saves the contents of the attachment to the specified file.
+            </summary>
+            <param name="attachment">Extension method for Attachment class</param>
+            <param name="name">The file to save the attachment to.</param>
+            <exception cref="T:System.IO.IOException">Thrown when an I/O error occurs during
+            the save operation. Use the InnerException property to obtain the exception that
+            led to the current exception.</exception>
+            <remarks>If the file does not exist, it will be created. If the file already
+            exists, it will be truncated and overwritten.</remarks>
+        </member>
+        <member name="T:S22.Mail.SerializableMailMessage">
+            <summary>
+            A serializable replication of the MailMessage class of the
+            System.Net.Mail namespace. It implements conversion operators to allow for
+            implicit conversion between SerializableMailMessage and MailMessage objects.
+            </summary>
+        </member>
+    </members>
+</doc>

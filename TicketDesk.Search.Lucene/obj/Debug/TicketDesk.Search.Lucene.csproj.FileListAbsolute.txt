@@ -1,0 +1,56 @@
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Search.Lucene\bin\Debug\TicketDesk.Search.Lucene.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Search.Lucene\bin\Debug\TicketDesk.Search.Lucene.pdb
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Search.Lucene\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Search.Lucene\bin\Debug\Lucene.Net.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Search.Lucene\bin\Debug\System.ValueTuple.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Search.Lucene\bin\Debug\TicketDesk.Search.Common.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Search.Lucene\bin\Debug\TicketDesk.Search.Common.pdb
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Search.Lucene\bin\Debug\Lucene.Net.pdb
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Search.Lucene\bin\Debug\Lucene.Net.xml
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Search.Lucene\bin\Debug\System.ValueTuple.xml
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Search.Lucene\obj\Debug\TicketDesk.Search.Lucene.csprojAssemblyReference.cache
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Search.Lucene\obj\Debug\TicketDesk.Search.Lucene.csproj.CopyComplete
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Search.Lucene\obj\Debug\TicketDesk.Search.Lucene.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Search.Lucene\obj\Debug\TicketDesk.Search.Lucene.pdb
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Search.Lucene\bin\Debug\TicketDesk.Search.Lucene.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Search.Lucene\bin\Debug\TicketDesk.Search.Lucene.pdb
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Search.Lucene\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Search.Lucene\bin\Debug\Lucene.Net.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Search.Lucene\bin\Debug\System.ValueTuple.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Search.Lucene\bin\Debug\TicketDesk.Search.Common.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Search.Lucene\bin\Debug\TicketDesk.Search.Common.pdb
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Search.Lucene\bin\Debug\Lucene.Net.pdb
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Search.Lucene\bin\Debug\Lucene.Net.xml
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Search.Lucene\bin\Debug\System.ValueTuple.xml
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Search.Lucene\obj\Debug\TicketDesk.Search.Lucene.csprojAssemblyReference.cache
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Search.Lucene\obj\Debug\TicketDesk.Search.Lucene.csproj.CopyComplete
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Search.Lucene\obj\Debug\TicketDesk.Search.Lucene.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Search.Lucene\obj\Debug\TicketDesk.Search.Lucene.pdb
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Search.Lucene\bin\Debug\TicketDesk.Search.Lucene.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Search.Lucene\bin\Debug\TicketDesk.Search.Lucene.pdb
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Search.Lucene\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Search.Lucene\bin\Debug\Lucene.Net.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Search.Lucene\bin\Debug\System.ValueTuple.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Search.Lucene\bin\Debug\TicketDesk.Search.Common.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Search.Lucene\bin\Debug\TicketDesk.Search.Common.pdb
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Search.Lucene\bin\Debug\Lucene.Net.pdb
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Search.Lucene\bin\Debug\Lucene.Net.xml
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Search.Lucene\bin\Debug\System.ValueTuple.xml
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Search.Lucene\obj\Debug\TicketDesk.Search.Lucene.csprojAssemblyReference.cache
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Search.Lucene\obj\Debug\TicketDesk.Search.Lucene.csproj.CopyComplete
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Search.Lucene\obj\Debug\TicketDesk.Search.Lucene.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Search.Lucene\obj\Debug\TicketDesk.Search.Lucene.pdb
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Search.Lucene\bin\Debug\TicketDesk.Search.Lucene.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Search.Lucene\bin\Debug\TicketDesk.Search.Lucene.pdb
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Search.Lucene\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Search.Lucene\bin\Debug\Lucene.Net.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Search.Lucene\bin\Debug\System.ValueTuple.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Search.Lucene\bin\Debug\TicketDesk.Search.Common.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Search.Lucene\bin\Debug\TicketDesk.Search.Common.pdb
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Search.Lucene\bin\Debug\Lucene.Net.pdb
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Search.Lucene\bin\Debug\Lucene.Net.xml
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Search.Lucene\bin\Debug\System.ValueTuple.xml
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Search.Lucene\obj\Debug\TicketDesk.Search.Lucene.csprojAssemblyReference.cache
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Search.Lucene\obj\Debug\TicketDesk.Search.Lucene.csproj.CopyComplete
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Search.Lucene\obj\Debug\TicketDesk.Search.Lucene.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Search.Lucene\obj\Debug\TicketDesk.Search.Lucene.pdb

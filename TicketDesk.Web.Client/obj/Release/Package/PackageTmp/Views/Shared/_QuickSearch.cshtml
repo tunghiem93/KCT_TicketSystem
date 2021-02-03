@@ -1,0 +1,15 @@
+﻿@using TicketDesk.Localization.Views.Shared
+
+
+@using (Html.BeginForm("index", "search", new { area = "" }, FormMethod.Get, new { @class = "", role = "search" }))
+{
+    <div class="input-group input-group-sm">
+
+        <label class="sr-only " for="find"> @_Layout.Search:</label>
+        @Html.TextBox("term", null, new { @class = "form-control", placeholder = _Layout.Search })
+        <span class="input-group-btn">
+            <button type="submit" value="go" class="btn btn-default"><i class="glyphicon glyphicon-search"></i></button>
+        </span>
+    </div>
+}
+

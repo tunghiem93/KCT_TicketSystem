@@ -1,0 +1,14 @@
+﻿@using TicketDesk.Localization.Views.Home
+
+@section title{ @About.Title }
+@section customHeader{}
+@section scripts{}
+
+<main role="main" class="row">
+    <article class="col-md-8">
+        <header>
+            <h2>@About.Header</h2>
+        </header>
+        @Html.Raw(About.Description)
+    </article>
+</main>

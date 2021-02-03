@@ -1,0 +1,60 @@
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Domain.Legacy\bin\Debug\TicketDesk.Domain.Legacy.dll.config
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Domain.Legacy\bin\Debug\TicketDesk.Domain.Legacy.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Domain.Legacy\bin\Debug\TicketDesk.Domain.Legacy.pdb
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Domain.Legacy\bin\Debug\EntityFramework.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Domain.Legacy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Domain.Legacy\bin\Debug\System.ValueTuple.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Domain.Legacy\bin\Debug\EntityFramework.xml
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Domain.Legacy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Domain.Legacy\bin\Debug\System.ValueTuple.xml
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Domain.Legacy\obj\Debug\TicketDesk.Domain.Legacy.csprojAssemblyReference.cache
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Domain.Legacy\obj\Debug\TicketDesk.Domain.Legacy.Migrations.InitialCreate.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Domain.Legacy\obj\Debug\TicketDesk.Domain.Legacy.csproj.GenerateResource.cache
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Domain.Legacy\obj\Debug\TicketDesk.Domain.Legacy.csproj.CopyComplete
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Domain.Legacy\obj\Debug\TicketDesk.Domain.Legacy.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Domain.Legacy\obj\Debug\TicketDesk.Domain.Legacy.pdb
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Domain.Legacy\bin\Debug\TicketDesk.Domain.Legacy.dll.config
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Domain.Legacy\bin\Debug\TicketDesk.Domain.Legacy.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Domain.Legacy\bin\Debug\TicketDesk.Domain.Legacy.pdb
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Domain.Legacy\bin\Debug\EntityFramework.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Domain.Legacy\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Domain.Legacy\bin\Debug\System.ValueTuple.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Domain.Legacy\bin\Debug\EntityFramework.xml
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Domain.Legacy\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Domain.Legacy\bin\Debug\System.ValueTuple.xml
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Domain.Legacy\obj\Debug\TicketDesk.Domain.Legacy.csprojAssemblyReference.cache
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Domain.Legacy\obj\Debug\TicketDesk.Domain.Legacy.Migrations.InitialCreate.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Domain.Legacy\obj\Debug\TicketDesk.Domain.Legacy.csproj.GenerateResource.cache
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Domain.Legacy\obj\Debug\TicketDesk.Domain.Legacy.csproj.CopyComplete
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Domain.Legacy\obj\Debug\TicketDesk.Domain.Legacy.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Domain.Legacy\obj\Debug\TicketDesk.Domain.Legacy.pdb
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Domain.Legacy\bin\Debug\TicketDesk.Domain.Legacy.dll.config
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Domain.Legacy\bin\Debug\TicketDesk.Domain.Legacy.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Domain.Legacy\bin\Debug\TicketDesk.Domain.Legacy.pdb
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Domain.Legacy\bin\Debug\EntityFramework.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Domain.Legacy\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Domain.Legacy\bin\Debug\System.ValueTuple.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Domain.Legacy\bin\Debug\EntityFramework.xml
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Domain.Legacy\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Domain.Legacy\bin\Debug\System.ValueTuple.xml
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Domain.Legacy\obj\Debug\TicketDesk.Domain.Legacy.csprojAssemblyReference.cache
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Domain.Legacy\obj\Debug\TicketDesk.Domain.Legacy.Migrations.InitialCreate.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Domain.Legacy\obj\Debug\TicketDesk.Domain.Legacy.csproj.GenerateResource.cache
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Domain.Legacy\obj\Debug\TicketDesk.Domain.Legacy.csproj.CopyComplete
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Domain.Legacy\obj\Debug\TicketDesk.Domain.Legacy.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Domain.Legacy\obj\Debug\TicketDesk.Domain.Legacy.pdb
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Domain.Legacy\bin\Debug\TicketDesk.Domain.Legacy.dll.config
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Domain.Legacy\bin\Debug\TicketDesk.Domain.Legacy.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Domain.Legacy\bin\Debug\TicketDesk.Domain.Legacy.pdb
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Domain.Legacy\bin\Debug\EntityFramework.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Domain.Legacy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Domain.Legacy\bin\Debug\System.ValueTuple.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Domain.Legacy\bin\Debug\EntityFramework.xml
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Domain.Legacy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Domain.Legacy\bin\Debug\System.ValueTuple.xml
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Domain.Legacy\obj\Debug\TicketDesk.Domain.Legacy.csprojAssemblyReference.cache
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Domain.Legacy\obj\Debug\TicketDesk.Domain.Legacy.Migrations.InitialCreate.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Domain.Legacy\obj\Debug\TicketDesk.Domain.Legacy.csproj.GenerateResource.cache
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Domain.Legacy\obj\Debug\TicketDesk.Domain.Legacy.csproj.CopyComplete
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Domain.Legacy\obj\Debug\TicketDesk.Domain.Legacy.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Domain.Legacy\obj\Debug\TicketDesk.Domain.Legacy.pdb

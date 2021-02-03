@@ -1,0 +1,32 @@
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Search.Common\bin\Debug\TicketDesk.Search.Common.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Search.Common\bin\Debug\TicketDesk.Search.Common.pdb
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Search.Common\bin\Debug\System.ValueTuple.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Search.Common\bin\Debug\System.ValueTuple.xml
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Search.Common\obj\Debug\TicketDesk.Search.Common.csprojAssemblyReference.cache
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Search.Common\obj\Debug\TicketDesk.Search.Common.csproj.CopyComplete
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Search.Common\obj\Debug\TicketDesk.Search.Common.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Search.Common\obj\Debug\TicketDesk.Search.Common.pdb
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Search.Common\bin\Debug\TicketDesk.Search.Common.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Search.Common\bin\Debug\TicketDesk.Search.Common.pdb
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Search.Common\bin\Debug\System.ValueTuple.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Search.Common\bin\Debug\System.ValueTuple.xml
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Search.Common\obj\Debug\TicketDesk.Search.Common.csprojAssemblyReference.cache
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Search.Common\obj\Debug\TicketDesk.Search.Common.csproj.CopyComplete
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Search.Common\obj\Debug\TicketDesk.Search.Common.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Search.Common\obj\Debug\TicketDesk.Search.Common.pdb
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Search.Common\bin\Debug\TicketDesk.Search.Common.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Search.Common\bin\Debug\TicketDesk.Search.Common.pdb
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Search.Common\bin\Debug\System.ValueTuple.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Search.Common\bin\Debug\System.ValueTuple.xml
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Search.Common\obj\Debug\TicketDesk.Search.Common.csprojAssemblyReference.cache
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Search.Common\obj\Debug\TicketDesk.Search.Common.csproj.CopyComplete
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Search.Common\obj\Debug\TicketDesk.Search.Common.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Search.Common\obj\Debug\TicketDesk.Search.Common.pdb
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Search.Common\bin\Debug\TicketDesk.Search.Common.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Search.Common\bin\Debug\TicketDesk.Search.Common.pdb
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Search.Common\bin\Debug\System.ValueTuple.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Search.Common\bin\Debug\System.ValueTuple.xml
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Search.Common\obj\Debug\TicketDesk.Search.Common.csprojAssemblyReference.cache
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Search.Common\obj\Debug\TicketDesk.Search.Common.csproj.CopyComplete
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Search.Common\obj\Debug\TicketDesk.Search.Common.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Search.Common\obj\Debug\TicketDesk.Search.Common.pdb

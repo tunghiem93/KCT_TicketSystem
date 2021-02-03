@@ -1,0 +1,248 @@
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\TicketDesk.IO.dll.config
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\TicketDesk.IO.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\TicketDesk.IO.pdb
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\AzureBlobFileSystem.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\System.Spatial.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\System.ValueTuple.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\System.Spatial.xml
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\System.ValueTuple.xml
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\obj\Debug\TicketDesk.IO.csprojAssemblyReference.cache
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\obj\Debug\TicketDesk.IO.csproj.CopyComplete
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\obj\Debug\TicketDesk.IO.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.IO\obj\Debug\TicketDesk.IO.pdb
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\TicketDesk.IO.dll.config
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\TicketDesk.IO.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\TicketDesk.IO.pdb
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\AzureBlobFileSystem.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\Microsoft.Data.Edm.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\Microsoft.Data.OData.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\Microsoft.Data.Services.Client.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\Newtonsoft.Json.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\System.Spatial.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\System.ValueTuple.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\Microsoft.Data.Edm.xml
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\Microsoft.Data.OData.xml
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\Microsoft.Data.Services.Client.xml
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\Newtonsoft.Json.xml
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\System.Spatial.xml
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\System.ValueTuple.xml
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\de\Microsoft.Data.OData.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\es\Microsoft.Data.OData.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\it\Microsoft.Data.OData.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\de\System.Spatial.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\es\System.Spatial.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\fr\System.Spatial.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\it\System.Spatial.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\ja\System.Spatial.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\ko\System.Spatial.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\ru\System.Spatial.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\zh-Hans\System.Spatial.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\obj\Debug\TicketDesk.IO.csprojAssemblyReference.cache
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\obj\Debug\TicketDesk.IO.csproj.CopyComplete
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\obj\Debug\TicketDesk.IO.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.IO\obj\Debug\TicketDesk.IO.pdb
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\TicketDesk.IO.dll.config
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\TicketDesk.IO.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\TicketDesk.IO.pdb
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\AzureBlobFileSystem.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\Microsoft.Data.Edm.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\Microsoft.Data.OData.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\Microsoft.Data.Services.Client.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\Newtonsoft.Json.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\System.Spatial.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\System.ValueTuple.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\Microsoft.Data.Edm.xml
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\Microsoft.Data.OData.xml
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\Microsoft.Data.Services.Client.xml
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\Newtonsoft.Json.xml
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\System.Spatial.xml
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\System.ValueTuple.xml
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\de\Microsoft.Data.OData.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\es\Microsoft.Data.OData.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\it\Microsoft.Data.OData.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\de\System.Spatial.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\es\System.Spatial.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\fr\System.Spatial.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\it\System.Spatial.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\ja\System.Spatial.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\ko\System.Spatial.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\ru\System.Spatial.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\zh-Hans\System.Spatial.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\obj\Debug\TicketDesk.IO.csprojAssemblyReference.cache
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\obj\Debug\TicketDesk.IO.csproj.CopyComplete
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\obj\Debug\TicketDesk.IO.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.IO\obj\Debug\TicketDesk.IO.pdb
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\TicketDesk.IO.dll.config
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\TicketDesk.IO.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\TicketDesk.IO.pdb
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\AzureBlobFileSystem.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\Microsoft.Data.Edm.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\Microsoft.Data.OData.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\Newtonsoft.Json.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\System.Spatial.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\System.ValueTuple.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\Microsoft.Data.Edm.xml
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\Microsoft.Data.OData.xml
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\Newtonsoft.Json.xml
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\System.Spatial.xml
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\System.ValueTuple.xml
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\de\System.Spatial.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\es\System.Spatial.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\fr\System.Spatial.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\it\System.Spatial.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\ja\System.Spatial.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\ko\System.Spatial.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\ru\System.Spatial.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\obj\Debug\TicketDesk.IO.csprojAssemblyReference.cache
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\obj\Debug\TicketDesk.IO.csproj.CopyComplete
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\obj\Debug\TicketDesk.IO.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.IO\obj\Debug\TicketDesk.IO.pdb

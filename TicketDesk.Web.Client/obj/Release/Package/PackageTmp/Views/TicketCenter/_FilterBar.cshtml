@@ -1,0 +1,124 @@
+﻿@using TicketDesk.Localization.Views.TicketCenter
+@model TicketDesk.Web.Client.Models.TicketCenterListViewModel
+@{
+    var ajaxFilterOptions = new AjaxOptions { UpdateTargetId = "ticketList", OnBegin = "ticketCenter.filters.beginChangeFilter", OnSuccess = "ticketCenter.completeChangeList", OnFailure = "ticketCenter.completeChangeList" };
+}
+
+<script src="~/Scripts/jquery-2.2.2.js" type="text/javascript"></script>
+<script src="~/Scripts/daterangepicker.min.js" type="text/javascript"></script>
+<div class="navbar" style="min-height: 0; margin: 0">
+    <div class="">
+        <button type="button" class="navbar-toggle collapsed" style="margin: 0; min-height: 0; padding: 0;" data-toggle="collapse" data-target="#filterbar-collapse">
+            <div class="btn btn-default btn-sm">
+                <span class="sr-only">@Index.ToggleNav</span>
+                <span class=""><i class="fa fa-filter"></i></span>
+            </div>
+        </button>
+        <div class="collapse navbar-collapse" id="filterbar-collapse">
+            @using (Ajax.BeginForm("FilterList", "TicketCenter", new { Model.CurrentListSetting.ListName }, ajaxFilterOptions, new { id = "filterForm", @class = "form-horizontal navbar-form", role = "form" }))
+            {
+                <div class="row">
+                    <div class="form-group form-group-xs small" style="width: 100%; margin: 0;">
+                        <label class="control-label col-sm-1 text-right">
+                            @Index.ProjectId
+                        </label>
+                        <div class="col-sm-1">
+                            @Html.DropDownList("ProjectId", Model.FilterBar.TicketProjectSelectList, Model.FilterBar.ProjectFilterHtmlAttributes)
+                        </div>
+                        <label class="control-label col-sm-1 text-right">
+                            @Index.Status
+                        </label>
+                        <div class="col-sm-1">
+                            @Html.DropDownList("TicketStatus", Model.FilterBar.TicketStatusSelectList, Model.FilterBar.StatusFilterHtmlAttributes)
+                        </div>
+
+                        <label class="control-label col-sm-1 text-right form-control-static">
+                            @Index.Owner
+                        </label>
+                        <div class="col-sm-1">
+                            @Html.DropDownList("Owner", Model.FilterBar.SubmittersSelectList, Model.FilterBar.OwnerFilterHtmlAttributes)
+                        </div>
+
+                        <label class="control-label col-sm-1 text-right form-control-static">
+                            @Index.Assigned
+                        </label>
+                        <div class="col-sm-1">
+                            @Html.DropDownList("AssignedTo", Model.FilterBar.AssignedToSelectList, Model.FilterBar.AssignedFilterHtmlAttributes)
+                            <input type="submit" value="filter" id="filterSubmitButton" />
+                        </div>
+
+                        <label class="control-label col-sm-1 text-right form-control-static">
+                            @Index.Daterange
+                        </label>
+                        <div class="col-sm-1">
+                            <input type="text" value="01/01/@DateTime.Now.Year - 12/31/@DateTime.Now.Year" id="" name="Daterange" style="width: 140%" />
+                        </div>
+
+                        <label class="control-label col-sm-1 text-right form-control-static">
+                            @Index.Show
+                        </label>
+                        <div class="col-sm-1" style="white-space: nowrap">
+                            @Html.DropDownList("PageSize", Model.FilterBar.ItemsPerPageSelectList, new { @class = "postback form-control number-select" })<label class="control-label form-control-static"> @string.Format(Index.TotalItemCount, Model.Tickets.TotalItemCount)</label>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+        $(document).ready(function() {
+            $('input[name="Daterange"]').daterangepicker({
+                //startDate: moment().subtract('days', 29),
+                //endDate: moment().subtract(2, 'years'),
+                //minDate: '01/01/1900',
+                //maxDate: '12/31/2090',
+                //dateLimit: { days: 60 },
+                showDropdowns: true,
+                showWeekNumbers: true,
+                timePicker: false,
+                timePickerIncrement: 1,
+                //timePicker12Hour: true,
+                ranges: {
+                    'Today': [moment(), moment()],
+                    'Yesterday': [moment().subtract('days', 1), moment().subtract('days', 1)],
+                    'Last 7 Days': [moment().subtract('days', 6), moment()],
+                    'Last 30 Days': [moment().subtract('days', 29), moment()],
+                    'This Month': [moment().startOf('month'), moment().endOf('month')],
+                    'Last Month': [moment().subtract('month', 1).startOf('month'), moment().subtract('month', 1).endOf('month')]
+                },
+                opens: 'left',
+                buttonClasses: ['btn btn-default'],
+                applyClass: 'btn-small btn-primary',
+                cancelClass: 'btn-small',
+                format: 'MM/DD/YYYY',
+                separator: ' to ',
+                locale: {
+                    applyLabel: 'Apply',
+                    fromLabel: 'From',
+                    toLabel: 'To',
+                    customRangeLabel: 'Custom Range',
+                    daysOfWeek: ['Su', 'Mo', 'Tu', 'We', 'Th', 'Fr','Sa'],
+                    monthNames: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
+                    firstDay: 1
+                }
+            }, function (start, end, label) {
+                console.log("A new date selection was made: " + start.format('MM-DD-YYYY') + ' to ' + end.format('MM-DD-YYYY'));
+            });
+        });
+        function callSubmitDaterange(e) {
+            var url = '@Url.Action("FilterList", "TicketCenter")';
+            var form = $(e);
+            var url = form.attr('action');
+
+            $.ajax({
+                type: "POST",
+                url: url,
+                data: form.serialize(), // serializes the form's elements.
+                success: function(data)
+                {
+                    //alert(data); // show response from the php script.
+                }
+            });
+        }
+</script>

@@ -1,0 +1,154 @@
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.PushNotifications\bin\Debug\TicketDesk.PushNotifications.dll.config
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.PushNotifications\bin\Debug\TicketDesk.PushNotifications.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.PushNotifications\bin\Debug\TicketDesk.PushNotifications.pdb
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.PushNotifications\bin\Debug\EntityFramework.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.PushNotifications\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.PushNotifications\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.PushNotifications\bin\Debug\S22.Mail.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.PushNotifications\bin\Debug\SendGrid.CSharp.HTTP.Client.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.PushNotifications\bin\Debug\SendGrid.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.PushNotifications\bin\Debug\SendGrid.SmtpApi.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.PushNotifications\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.PushNotifications\bin\Debug\System.ValueTuple.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.PushNotifications\bin\Debug\TicketDesk.Localization.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.PushNotifications\bin\Debug\S22.Mail.pdb
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.PushNotifications\bin\Debug\S22.Mail.xml
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.PushNotifications\bin\Debug\TicketDesk.Localization.pdb
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.PushNotifications\bin\Debug\EntityFramework.xml
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.PushNotifications\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.PushNotifications\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.PushNotifications\bin\Debug\SendGrid.pdb
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.PushNotifications\bin\Debug\SendGrid.xml
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.PushNotifications\bin\Debug\SendGrid.CSharp.HTTP.Client.pdb
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.PushNotifications\bin\Debug\SendGrid.CSharp.HTTP.Client.dll.config
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.PushNotifications\bin\Debug\SendGrid.SmtpApi.pdb
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.PushNotifications\bin\Debug\SendGrid.SmtpApi.xml
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.PushNotifications\bin\Debug\SendGrid.SmtpApi.dll.config
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.PushNotifications\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.PushNotifications\bin\Debug\System.ValueTuple.xml
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.PushNotifications\bin\Debug\de-DE\TicketDesk.Localization.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.PushNotifications\bin\Debug\pt-BR\TicketDesk.Localization.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.PushNotifications\obj\Debug\TicketDesk.PushNotifications.csprojAssemblyReference.cache
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.PushNotifications\obj\Debug\TicketDesk.PushNotifications.csproj.CopyComplete
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.PushNotifications\obj\Debug\TicketDesk.PushNotifications.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.PushNotifications\obj\Debug\TicketDesk.PushNotifications.pdb
+D:\Tan Thanh Container\TicketDesk\TicketDesk.PushNotifications\bin\Debug\TicketDesk.PushNotifications.dll.config
+D:\Tan Thanh Container\TicketDesk\TicketDesk.PushNotifications\bin\Debug\TicketDesk.PushNotifications.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.PushNotifications\bin\Debug\TicketDesk.PushNotifications.pdb
+D:\Tan Thanh Container\TicketDesk\TicketDesk.PushNotifications\bin\Debug\EntityFramework.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.PushNotifications\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.PushNotifications\bin\Debug\Newtonsoft.Json.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.PushNotifications\bin\Debug\S22.Mail.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.PushNotifications\bin\Debug\SendGrid.CSharp.HTTP.Client.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.PushNotifications\bin\Debug\SendGrid.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.PushNotifications\bin\Debug\SendGrid.SmtpApi.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.PushNotifications\bin\Debug\System.Net.Http.Formatting.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.PushNotifications\bin\Debug\System.ValueTuple.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.PushNotifications\bin\Debug\TicketDesk.Localization.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.PushNotifications\bin\Debug\TicketDesk.Search.Azure.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.PushNotifications\bin\Debug\TicketDesk.Search.Common.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.PushNotifications\bin\Debug\RedDog.Search.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.PushNotifications\bin\Debug\S22.Mail.pdb
+D:\Tan Thanh Container\TicketDesk\TicketDesk.PushNotifications\bin\Debug\S22.Mail.xml
+D:\Tan Thanh Container\TicketDesk\TicketDesk.PushNotifications\bin\Debug\TicketDesk.Localization.pdb
+D:\Tan Thanh Container\TicketDesk\TicketDesk.PushNotifications\bin\Debug\TicketDesk.Search.Azure.pdb
+D:\Tan Thanh Container\TicketDesk\TicketDesk.PushNotifications\bin\Debug\TicketDesk.Search.Azure.dll.config
+D:\Tan Thanh Container\TicketDesk\TicketDesk.PushNotifications\bin\Debug\EntityFramework.xml
+D:\Tan Thanh Container\TicketDesk\TicketDesk.PushNotifications\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tan Thanh Container\TicketDesk\TicketDesk.PushNotifications\bin\Debug\Newtonsoft.Json.xml
+D:\Tan Thanh Container\TicketDesk\TicketDesk.PushNotifications\bin\Debug\SendGrid.pdb
+D:\Tan Thanh Container\TicketDesk\TicketDesk.PushNotifications\bin\Debug\SendGrid.xml
+D:\Tan Thanh Container\TicketDesk\TicketDesk.PushNotifications\bin\Debug\SendGrid.CSharp.HTTP.Client.pdb
+D:\Tan Thanh Container\TicketDesk\TicketDesk.PushNotifications\bin\Debug\SendGrid.CSharp.HTTP.Client.dll.config
+D:\Tan Thanh Container\TicketDesk\TicketDesk.PushNotifications\bin\Debug\SendGrid.SmtpApi.pdb
+D:\Tan Thanh Container\TicketDesk\TicketDesk.PushNotifications\bin\Debug\SendGrid.SmtpApi.xml
+D:\Tan Thanh Container\TicketDesk\TicketDesk.PushNotifications\bin\Debug\SendGrid.SmtpApi.dll.config
+D:\Tan Thanh Container\TicketDesk\TicketDesk.PushNotifications\bin\Debug\System.Net.Http.Formatting.xml
+D:\Tan Thanh Container\TicketDesk\TicketDesk.PushNotifications\bin\Debug\System.ValueTuple.xml
+D:\Tan Thanh Container\TicketDesk\TicketDesk.PushNotifications\bin\Debug\TicketDesk.Search.Common.pdb
+D:\Tan Thanh Container\TicketDesk\TicketDesk.PushNotifications\bin\Debug\de-DE\TicketDesk.Localization.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.PushNotifications\bin\Debug\pt-BR\TicketDesk.Localization.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.PushNotifications\obj\Debug\TicketDesk.PushNotifications.csprojAssemblyReference.cache
+D:\Tan Thanh Container\TicketDesk\TicketDesk.PushNotifications\obj\Debug\TicketDesk.PushNotifications.csproj.CopyComplete
+D:\Tan Thanh Container\TicketDesk\TicketDesk.PushNotifications\obj\Debug\TicketDesk.PushNotifications.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.PushNotifications\obj\Debug\TicketDesk.PushNotifications.pdb
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.PushNotifications\bin\Debug\TicketDesk.PushNotifications.dll.config
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.PushNotifications\bin\Debug\TicketDesk.PushNotifications.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.PushNotifications\bin\Debug\TicketDesk.PushNotifications.pdb
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.PushNotifications\bin\Debug\EntityFramework.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.PushNotifications\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.PushNotifications\bin\Debug\Newtonsoft.Json.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.PushNotifications\bin\Debug\S22.Mail.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.PushNotifications\bin\Debug\SendGrid.CSharp.HTTP.Client.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.PushNotifications\bin\Debug\SendGrid.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.PushNotifications\bin\Debug\SendGrid.SmtpApi.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.PushNotifications\bin\Debug\System.Net.Http.Formatting.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.PushNotifications\bin\Debug\System.ValueTuple.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.PushNotifications\bin\Debug\TicketDesk.Localization.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.PushNotifications\bin\Debug\TicketDesk.Search.Azure.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.PushNotifications\bin\Debug\TicketDesk.Search.Common.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.PushNotifications\bin\Debug\RedDog.Search.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.PushNotifications\bin\Debug\S22.Mail.pdb
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.PushNotifications\bin\Debug\S22.Mail.xml
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.PushNotifications\bin\Debug\TicketDesk.Localization.pdb
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.PushNotifications\bin\Debug\TicketDesk.Search.Azure.pdb
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.PushNotifications\bin\Debug\TicketDesk.Search.Azure.dll.config
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.PushNotifications\bin\Debug\EntityFramework.xml
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.PushNotifications\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.PushNotifications\bin\Debug\Newtonsoft.Json.xml
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.PushNotifications\bin\Debug\SendGrid.pdb
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.PushNotifications\bin\Debug\SendGrid.xml
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.PushNotifications\bin\Debug\SendGrid.CSharp.HTTP.Client.pdb
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.PushNotifications\bin\Debug\SendGrid.CSharp.HTTP.Client.dll.config
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.PushNotifications\bin\Debug\SendGrid.SmtpApi.pdb
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.PushNotifications\bin\Debug\SendGrid.SmtpApi.xml
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.PushNotifications\bin\Debug\SendGrid.SmtpApi.dll.config
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.PushNotifications\bin\Debug\System.Net.Http.Formatting.xml
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.PushNotifications\bin\Debug\System.ValueTuple.xml
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.PushNotifications\bin\Debug\TicketDesk.Search.Common.pdb
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.PushNotifications\bin\Debug\de-DE\TicketDesk.Localization.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.PushNotifications\bin\Debug\pt-BR\TicketDesk.Localization.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.PushNotifications\obj\Debug\TicketDesk.PushNotifications.csprojAssemblyReference.cache
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.PushNotifications\obj\Debug\TicketDesk.PushNotifications.csproj.CopyComplete
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.PushNotifications\obj\Debug\TicketDesk.PushNotifications.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.PushNotifications\obj\Debug\TicketDesk.PushNotifications.pdb
+C:\Tan Thanh Container\SupportTicket\TicketDesk.PushNotifications\bin\Debug\TicketDesk.PushNotifications.dll.config
+C:\Tan Thanh Container\SupportTicket\TicketDesk.PushNotifications\bin\Debug\TicketDesk.PushNotifications.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.PushNotifications\bin\Debug\TicketDesk.PushNotifications.pdb
+C:\Tan Thanh Container\SupportTicket\TicketDesk.PushNotifications\bin\Debug\EntityFramework.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.PushNotifications\bin\Debug\EntityFramework.SqlServer.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.PushNotifications\bin\Debug\Newtonsoft.Json.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.PushNotifications\bin\Debug\S22.Mail.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.PushNotifications\bin\Debug\SendGrid.CSharp.HTTP.Client.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.PushNotifications\bin\Debug\SendGrid.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.PushNotifications\bin\Debug\SendGrid.SmtpApi.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.PushNotifications\bin\Debug\System.Net.Http.Formatting.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.PushNotifications\bin\Debug\System.ValueTuple.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.PushNotifications\bin\Debug\TicketDesk.Localization.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.PushNotifications\bin\Debug\TicketDesk.Search.Azure.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.PushNotifications\bin\Debug\TicketDesk.Search.Common.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.PushNotifications\bin\Debug\RedDog.Search.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.PushNotifications\bin\Debug\S22.Mail.pdb
+C:\Tan Thanh Container\SupportTicket\TicketDesk.PushNotifications\bin\Debug\S22.Mail.xml
+C:\Tan Thanh Container\SupportTicket\TicketDesk.PushNotifications\bin\Debug\TicketDesk.Localization.pdb
+C:\Tan Thanh Container\SupportTicket\TicketDesk.PushNotifications\bin\Debug\TicketDesk.Search.Azure.pdb
+C:\Tan Thanh Container\SupportTicket\TicketDesk.PushNotifications\bin\Debug\TicketDesk.Search.Azure.dll.config
+C:\Tan Thanh Container\SupportTicket\TicketDesk.PushNotifications\bin\Debug\EntityFramework.xml
+C:\Tan Thanh Container\SupportTicket\TicketDesk.PushNotifications\bin\Debug\EntityFramework.SqlServer.xml
+C:\Tan Thanh Container\SupportTicket\TicketDesk.PushNotifications\bin\Debug\Newtonsoft.Json.xml
+C:\Tan Thanh Container\SupportTicket\TicketDesk.PushNotifications\bin\Debug\SendGrid.pdb
+C:\Tan Thanh Container\SupportTicket\TicketDesk.PushNotifications\bin\Debug\SendGrid.xml
+C:\Tan Thanh Container\SupportTicket\TicketDesk.PushNotifications\bin\Debug\SendGrid.CSharp.HTTP.Client.pdb
+C:\Tan Thanh Container\SupportTicket\TicketDesk.PushNotifications\bin\Debug\SendGrid.CSharp.HTTP.Client.dll.config
+C:\Tan Thanh Container\SupportTicket\TicketDesk.PushNotifications\bin\Debug\SendGrid.SmtpApi.pdb
+C:\Tan Thanh Container\SupportTicket\TicketDesk.PushNotifications\bin\Debug\SendGrid.SmtpApi.xml
+C:\Tan Thanh Container\SupportTicket\TicketDesk.PushNotifications\bin\Debug\SendGrid.SmtpApi.dll.config
+C:\Tan Thanh Container\SupportTicket\TicketDesk.PushNotifications\bin\Debug\System.Net.Http.Formatting.xml
+C:\Tan Thanh Container\SupportTicket\TicketDesk.PushNotifications\bin\Debug\System.ValueTuple.xml
+C:\Tan Thanh Container\SupportTicket\TicketDesk.PushNotifications\bin\Debug\TicketDesk.Search.Common.pdb
+C:\Tan Thanh Container\SupportTicket\TicketDesk.PushNotifications\bin\Debug\de-DE\TicketDesk.Localization.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.PushNotifications\bin\Debug\pt-BR\TicketDesk.Localization.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.PushNotifications\obj\Debug\TicketDesk.PushNotifications.csprojAssemblyReference.cache
+C:\Tan Thanh Container\SupportTicket\TicketDesk.PushNotifications\obj\Debug\TicketDesk.PushNotifications.csproj.CopyComplete
+C:\Tan Thanh Container\SupportTicket\TicketDesk.PushNotifications\obj\Debug\TicketDesk.PushNotifications.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.PushNotifications\obj\Debug\TicketDesk.PushNotifications.pdb

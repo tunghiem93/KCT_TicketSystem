@@ -1,0 +1,16 @@
+D:\Tan Thanh Container\TicketDesk\S22.Mail\bin\Release\S22.Mail.dll
+D:\Tan Thanh Container\TicketDesk\S22.Mail\bin\Release\S22.Mail.pdb
+D:\Tan Thanh Container\TicketDesk\S22.Mail\bin\Release\System.ValueTuple.dll
+D:\Tan Thanh Container\TicketDesk\S22.Mail\bin\Release\System.ValueTuple.xml
+D:\Tan Thanh Container\TicketDesk\S22.Mail\obj\Release\S22.Mail.csprojAssemblyReference.cache
+D:\Tan Thanh Container\TicketDesk\S22.Mail\obj\Release\S22.Mail.csproj.CopyComplete
+D:\Tan Thanh Container\TicketDesk\S22.Mail\obj\Release\S22.Mail.dll
+D:\Tan Thanh Container\TicketDesk\S22.Mail\obj\Release\S22.Mail.pdb
+C:\Tan Thanh Container\SupportTicket\S22.Mail\bin\Release\S22.Mail.dll
+C:\Tan Thanh Container\SupportTicket\S22.Mail\bin\Release\S22.Mail.pdb
+C:\Tan Thanh Container\SupportTicket\S22.Mail\bin\Release\System.ValueTuple.dll
+C:\Tan Thanh Container\SupportTicket\S22.Mail\bin\Release\System.ValueTuple.xml
+C:\Tan Thanh Container\SupportTicket\S22.Mail\obj\Release\S22.Mail.csprojAssemblyReference.cache
+C:\Tan Thanh Container\SupportTicket\S22.Mail\obj\Release\S22.Mail.csproj.CopyComplete
+C:\Tan Thanh Container\SupportTicket\S22.Mail\obj\Release\S22.Mail.dll
+C:\Tan Thanh Container\SupportTicket\S22.Mail\obj\Release\S22.Mail.pdb

@@ -1,0 +1,2550 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Tan Thanh Container\WebPublish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ApplicationInsights.config">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/AzureBlobFileSystem.dll">
+      <publishTime>01/26/2016 18:34:02</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/de-DE/TicketDesk.Localization.resources.dll">
+      <publishTime>05/04/2020 16:36:08</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/de/Microsoft.Data.Edm.resources.dll">
+      <publishTime>02/01/2017 14:00:38</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/de/Microsoft.Data.OData.resources.dll">
+      <publishTime>02/01/2017 14:00:22</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/de/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>02/01/2017 14:00:18</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/de/System.Spatial.resources.dll">
+      <publishTime>02/01/2017 14:00:14</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/EntityFramework.dll">
+      <publishTime>03/02/2015 09:32:26</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/EntityFramework.SqlServer.dll">
+      <publishTime>03/02/2015 09:32:26</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/EntityFramework.SqlServer.xml">
+      <publishTime>03/02/2015 09:32:26</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/EntityFramework.xml">
+      <publishTime>03/02/2015 09:32:26</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/es/Microsoft.Data.Edm.resources.dll">
+      <publishTime>02/01/2017 14:00:38</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/es/Microsoft.Data.OData.resources.dll">
+      <publishTime>02/01/2017 14:00:22</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/es/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>02/01/2017 14:00:18</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/es/System.Spatial.resources.dll">
+      <publishTime>02/01/2017 14:00:14</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/fr/Microsoft.Data.Edm.resources.dll">
+      <publishTime>02/01/2017 14:00:38</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/fr/Microsoft.Data.OData.resources.dll">
+      <publishTime>02/01/2017 14:00:22</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/fr/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>02/01/2017 14:00:18</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/fr/System.Spatial.resources.dll">
+      <publishTime>02/01/2017 14:00:14</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/it/Microsoft.Data.Edm.resources.dll">
+      <publishTime>02/01/2017 14:00:38</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/it/Microsoft.Data.OData.resources.dll">
+      <publishTime>02/01/2017 14:00:22</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/it/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>02/01/2017 14:00:18</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/it/System.Spatial.resources.dll">
+      <publishTime>02/01/2017 14:00:14</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/ja/Microsoft.Data.Edm.resources.dll">
+      <publishTime>02/01/2017 14:00:38</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/ja/Microsoft.Data.OData.resources.dll">
+      <publishTime>02/01/2017 14:00:22</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/ja/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>02/01/2017 14:00:18</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/ja/System.Spatial.resources.dll">
+      <publishTime>02/01/2017 14:00:14</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/ko/Microsoft.Data.Edm.resources.dll">
+      <publishTime>02/01/2017 14:00:38</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/ko/Microsoft.Data.OData.resources.dll">
+      <publishTime>02/01/2017 14:00:22</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/ko/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>02/01/2017 14:00:18</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/ko/System.Spatial.resources.dll">
+      <publishTime>02/01/2017 14:00:14</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/Microsoft.Azure.KeyVault.Core.dll">
+      <publishTime>12/07/2016 09:37:44</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/Microsoft.Data.Edm.dll">
+      <publishTime>02/01/2017 14:00:38</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/Microsoft.Data.Edm.xml">
+      <publishTime>02/01/2017 14:00:38</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/Microsoft.Data.OData.dll">
+      <publishTime>02/01/2017 14:00:22</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/Microsoft.Data.OData.xml">
+      <publishTime>02/01/2017 14:00:22</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/Microsoft.Data.Services.Client.dll">
+      <publishTime>02/01/2017 14:00:18</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/Microsoft.Data.Services.Client.xml">
+      <publishTime>02/01/2017 14:00:18</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/Microsoft.WindowsAzure.Configuration.dll">
+      <publishTime>10/25/2016 10:48:08</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/Microsoft.WindowsAzure.Configuration.xml">
+      <publishTime>10/25/2016 10:48:08</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/Microsoft.WindowsAzure.Storage.dll">
+      <publishTime>07/13/2017 13:55:16</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/Microsoft.WindowsAzure.Storage.pdb">
+      <publishTime>07/13/2017 13:55:16</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/Microsoft.WindowsAzure.Storage.xml">
+      <publishTime>07/13/2017 13:55:16</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/Newtonsoft.Json.dll">
+      <publishTime>06/13/2016 23:06:14</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/Newtonsoft.Json.xml">
+      <publishTime>06/13/2016 23:06:14</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/pt-BR/TicketDesk.Localization.resources.dll">
+      <publishTime>05/04/2020 16:36:08</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/ru/Microsoft.Data.Edm.resources.dll">
+      <publishTime>02/01/2017 14:00:38</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/ru/Microsoft.Data.OData.resources.dll">
+      <publishTime>02/01/2017 14:00:22</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/ru/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>02/01/2017 14:00:20</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/ru/System.Spatial.resources.dll">
+      <publishTime>02/01/2017 14:00:14</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/S22.Mail.dll">
+      <publishTime>05/04/2020 16:36:07</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/S22.Mail.pdb">
+      <publishTime>05/04/2020 16:36:07</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/SendGrid.dll">
+      <publishTime>07/20/2017 15:01:06</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/SendGrid.pdb">
+      <publishTime>07/20/2017 15:01:06</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/SendGrid.xml">
+      <publishTime>07/20/2017 15:01:06</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/System.Spatial.dll">
+      <publishTime>02/01/2017 14:00:14</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/System.Spatial.xml">
+      <publishTime>02/01/2017 14:00:14</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/System.ValueTuple.dll">
+      <publishTime>07/19/2017 10:01:32</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/System.ValueTuple.xml">
+      <publishTime>07/19/2017 10:01:32</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/TicketDesk.IO.dll">
+      <publishTime>05/04/2020 16:36:07</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/TicketDesk.IO.dll.config">
+      <publishTime>03/16/2020 16:34:06</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/TicketDesk.IO.pdb">
+      <publishTime>05/04/2020 16:36:07</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/TicketDesk.Localization.dll">
+      <publishTime>05/04/2020 16:36:08</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/TicketDesk.Localization.pdb">
+      <publishTime>05/04/2020 16:36:08</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/TicketDesk.PushNotifications.dll">
+      <publishTime>05/04/2020 16:36:19</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/TicketDesk.PushNotifications.dll.config">
+      <publishTime>03/16/2020 16:34:07</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/TicketDesk.PushNotifications.Job.exe">
+      <publishTime>05/04/2020 16:36:33</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/TicketDesk.PushNotifications.Job.exe.config">
+      <publishTime>03/16/2020 16:50:17</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/TicketDesk.PushNotifications.Job.pdb">
+      <publishTime>05/04/2020 16:36:33</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/TicketDesk.PushNotifications.pdb">
+      <publishTime>05/04/2020 16:36:19</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/zh-Hans/Microsoft.Data.Edm.resources.dll">
+      <publishTime>02/01/2017 14:00:38</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/zh-Hans/Microsoft.Data.OData.resources.dll">
+      <publishTime>02/01/2017 14:00:22</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/zh-Hans/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>02/01/2017 14:00:18</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/zh-Hans/System.Spatial.resources.dll">
+      <publishTime>02/01/2017 14:00:14</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/zh-Hant/Microsoft.Data.Edm.resources.dll">
+      <publishTime>02/01/2017 14:00:38</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/zh-Hant/Microsoft.Data.OData.resources.dll">
+      <publishTime>02/01/2017 14:00:22</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/zh-Hant/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>02/01/2017 14:00:18</publishTime>
+    </File>
+    <File Include="App_Data/jobs/continuous/TicketDesk-PushNotifications-Job/zh-Hant/System.Spatial.resources.dll">
+      <publishTime>02/01/2017 14:00:14</publishTime>
+    </File>
+    <File Include="App_Data/ticketdesk-searchindex/segments.gen">
+      <publishTime>02/25/2020 14:02:48</publishTime>
+    </File>
+    <File Include="App_Data/ticketdesk-searchindex/segments_1">
+      <publishTime>02/25/2020 14:02:48</publishTime>
+    </File>
+    <File Include="App_Readme/Elmah.txt">
+      <publishTime>03/19/2020 08:18:43</publishTime>
+    </File>
+    <File Include="bin/AngleSharp.dll">
+      <publishTime>03/16/2016 23:15:46</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>09/10/2013 16:29:20</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.pdb">
+      <publishTime>09/10/2013 16:29:20</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="bin/AzureBlobFileSystem.dll">
+      <publishTime>01/26/2016 18:34:02</publishTime>
+    </File>
+    <File Include="bin/CsQuery.dll">
+      <publishTime>02/05/2013 06:41:36</publishTime>
+    </File>
+    <File Include="bin/de-DE/TicketDesk.Localization.resources.dll">
+      <publishTime>05/04/2020 16:36:08</publishTime>
+    </File>
+    <File Include="bin/de/Microsoft.Data.Edm.resources.dll">
+      <publishTime>02/01/2017 14:00:38</publishTime>
+    </File>
+    <File Include="bin/de/Microsoft.Data.OData.resources.dll">
+      <publishTime>02/01/2017 14:00:22</publishTime>
+    </File>
+    <File Include="bin/de/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>02/01/2017 14:00:18</publishTime>
+    </File>
+    <File Include="bin/de/System.Spatial.resources.dll">
+      <publishTime>02/01/2017 14:00:14</publishTime>
+    </File>
+    <File Include="bin/Elmah.dll">
+      <publishTime>04/12/2012 19:19:36</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>03/02/2015 09:32:26</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>03/02/2015 09:32:26</publishTime>
+    </File>
+    <File Include="bin/es/Microsoft.Data.Edm.resources.dll">
+      <publishTime>02/01/2017 14:00:38</publishTime>
+    </File>
+    <File Include="bin/es/Microsoft.Data.OData.resources.dll">
+      <publishTime>02/01/2017 14:00:22</publishTime>
+    </File>
+    <File Include="bin/es/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>02/01/2017 14:00:18</publishTime>
+    </File>
+    <File Include="bin/es/System.Spatial.resources.dll">
+      <publishTime>02/01/2017 14:00:14</publishTime>
+    </File>
+    <File Include="bin/fr/Microsoft.Data.Edm.resources.dll">
+      <publishTime>02/01/2017 14:00:38</publishTime>
+    </File>
+    <File Include="bin/fr/Microsoft.Data.OData.resources.dll">
+      <publishTime>02/01/2017 14:00:22</publishTime>
+    </File>
+    <File Include="bin/fr/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>02/01/2017 14:00:18</publishTime>
+    </File>
+    <File Include="bin/fr/System.Spatial.resources.dll">
+      <publishTime>02/01/2017 14:00:14</publishTime>
+    </File>
+    <File Include="bin/HtmlSanitizer.dll">
+      <publishTime>03/22/2016 18:18:14</publishTime>
+    </File>
+    <File Include="bin/it/Microsoft.Data.Edm.resources.dll">
+      <publishTime>02/01/2017 14:00:38</publishTime>
+    </File>
+    <File Include="bin/it/Microsoft.Data.OData.resources.dll">
+      <publishTime>02/01/2017 14:00:22</publishTime>
+    </File>
+    <File Include="bin/it/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>02/01/2017 14:00:18</publishTime>
+    </File>
+    <File Include="bin/it/System.Spatial.resources.dll">
+      <publishTime>02/01/2017 14:00:14</publishTime>
+    </File>
+    <File Include="bin/ja/Microsoft.Data.Edm.resources.dll">
+      <publishTime>02/01/2017 14:00:38</publishTime>
+    </File>
+    <File Include="bin/ja/Microsoft.Data.OData.resources.dll">
+      <publishTime>02/01/2017 14:00:22</publishTime>
+    </File>
+    <File Include="bin/ja/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>02/01/2017 14:00:18</publishTime>
+    </File>
+    <File Include="bin/ja/System.Spatial.resources.dll">
+      <publishTime>02/01/2017 14:00:14</publishTime>
+    </File>
+    <File Include="bin/ko/Microsoft.Data.Edm.resources.dll">
+      <publishTime>02/01/2017 14:00:38</publishTime>
+    </File>
+    <File Include="bin/ko/Microsoft.Data.OData.resources.dll">
+      <publishTime>02/01/2017 14:00:22</publishTime>
+    </File>
+    <File Include="bin/ko/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>02/01/2017 14:00:18</publishTime>
+    </File>
+    <File Include="bin/ko/System.Spatial.resources.dll">
+      <publishTime>02/01/2017 14:00:14</publishTime>
+    </File>
+    <File Include="bin/Lucene.Net.dll">
+      <publishTime>10/26/2012 00:52:54</publishTime>
+    </File>
+    <File Include="bin/Lucene.Net.pdb">
+      <publishTime>10/26/2012 00:52:54</publishTime>
+    </File>
+    <File Include="bin/MarkdownSharp.dll">
+      <publishTime>01/06/2011 21:24:32</publishTime>
+    </File>
+    <File Include="bin/MarkdownSharp.pdb">
+      <publishTime>01/06/2011 21:24:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>06/27/2017 12:59:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>07/07/2017 17:39:02</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>07/07/2017 17:44:52</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>06/27/2017 15:30:06</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>07/07/2017 17:44:50</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>07/07/2017 17:44:52</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>06/27/2017 15:33:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
+      <publishTime>04/03/2015 17:07:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.EntityFramework.dll">
+      <publishTime>04/03/2015 17:07:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Owin.dll">
+      <publishTime>04/03/2015 17:07:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.TelemetryCorrelation.dll">
+      <publishTime>06/28/2017 15:05:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Azure.KeyVault.Core.dll">
+      <publishTime>12/07/2016 09:37:44</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Data.Edm.dll">
+      <publishTime>02/01/2017 14:00:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Data.OData.dll">
+      <publishTime>02/01/2017 14:00:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Data.Services.Client.dll">
+      <publishTime>02/01/2017 14:00:18</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Diagnostics.Tracing.EventSource.dll">
+      <publishTime>12/01/2015 14:31:46</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>04/05/2017 11:53:36</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>04/05/2017 11:53:40</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Cookies.dll">
+      <publishTime>04/05/2017 11:53:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>04/05/2017 11:53:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.OAuth.dll">
+      <publishTime>04/05/2017 11:53:46</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Threading.Tasks.dll">
+      <publishTime>04/07/2014 12:26:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Threading.Tasks.Extensions.Desktop.dll">
+      <publishTime>04/07/2014 12:26:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Threading.Tasks.Extensions.dll">
+      <publishTime>04/07/2014 12:26:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>07/25/2012 11:48:56</publishTime>
+    </File>
+    <File Include="bin/Microsoft.WindowsAzure.Configuration.dll">
+      <publishTime>10/25/2016 10:48:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.WindowsAzure.Storage.dll">
+      <publishTime>07/13/2017 13:55:16</publishTime>
+    </File>
+    <File Include="bin/Microsoft.WindowsAzure.Storage.pdb">
+      <publishTime>07/13/2017 13:55:16</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>06/13/2016 23:06:14</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>11/13/2012 12:19:34</publishTime>
+    </File>
+    <File Include="bin/Postal.dll">
+      <publishTime>09/05/2014 09:15:08</publishTime>
+    </File>
+    <File Include="bin/pt-BR/TicketDesk.Localization.resources.dll">
+      <publishTime>05/04/2020 16:36:08</publishTime>
+    </File>
+    <File Include="bin/RazorEngine.dll">
+      <publishTime>06/16/2017 17:11:22</publishTime>
+    </File>
+    <File Include="bin/RedDog.Search.dll">
+      <publishTime>11/26/2014 18:49:24</publishTime>
+    </File>
+    <File Include="bin/ru/Microsoft.Data.Edm.resources.dll">
+      <publishTime>02/01/2017 14:00:38</publishTime>
+    </File>
+    <File Include="bin/ru/Microsoft.Data.OData.resources.dll">
+      <publishTime>02/01/2017 14:00:22</publishTime>
+    </File>
+    <File Include="bin/ru/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>02/01/2017 14:00:20</publishTime>
+    </File>
+    <File Include="bin/ru/System.Spatial.resources.dll">
+      <publishTime>02/01/2017 14:00:14</publishTime>
+    </File>
+    <File Include="bin/S22.Mail.dll">
+      <publishTime>05/04/2020 16:36:07</publishTime>
+    </File>
+    <File Include="bin/S22.Mail.pdb">
+      <publishTime>05/04/2020 16:36:07</publishTime>
+    </File>
+    <File Include="bin/SendGrid.dll">
+      <publishTime>07/20/2017 15:01:06</publishTime>
+    </File>
+    <File Include="bin/SendGrid.pdb">
+      <publishTime>07/20/2017 15:01:06</publishTime>
+    </File>
+    <File Include="bin/SimpleInjector.dll">
+      <publishTime>06/04/2017 01:08:32</publishTime>
+    </File>
+    <File Include="bin/SimpleInjector.Integration.Web.dll">
+      <publishTime>06/04/2017 01:08:58</publishTime>
+    </File>
+    <File Include="bin/SimpleInjector.Integration.Web.Mvc.dll">
+      <publishTime>06/04/2017 01:09:02</publishTime>
+    </File>
+    <File Include="bin/System.Diagnostics.DiagnosticSource.dll">
+      <publishTime>06/27/2017 11:17:34</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>01/28/2015 04:02:42</publishTime>
+    </File>
+    <File Include="bin/System.Spatial.dll">
+      <publishTime>02/01/2017 14:00:14</publishTime>
+    </File>
+    <File Include="bin/System.ValueTuple.dll">
+      <publishTime>07/19/2017 10:01:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>01/28/2015 04:02:18</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>02/11/2014 15:26:04</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>01/28/2015 04:02:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/TicketDesk.Domain.dll">
+      <publishTime>05/04/2020 16:36:16</publishTime>
+    </File>
+    <File Include="bin/TicketDesk.Domain.dll.config">
+      <publishTime>03/20/2020 13:46:45</publishTime>
+    </File>
+    <File Include="bin/TicketDesk.Domain.Legacy.dll">
+      <publishTime>05/04/2020 16:36:07</publishTime>
+    </File>
+    <File Include="bin/TicketDesk.Domain.Legacy.dll.config">
+      <publishTime>03/16/2020 16:34:05</publishTime>
+    </File>
+    <File Include="bin/TicketDesk.Domain.Legacy.pdb">
+      <publishTime>05/04/2020 16:36:07</publishTime>
+    </File>
+    <File Include="bin/TicketDesk.Domain.pdb">
+      <publishTime>05/04/2020 16:36:16</publishTime>
+    </File>
+    <File Include="bin/TicketDesk.IO.dll">
+      <publishTime>05/04/2020 16:36:07</publishTime>
+    </File>
+    <File Include="bin/TicketDesk.IO.dll.config">
+      <publishTime>03/16/2020 16:34:06</publishTime>
+    </File>
+    <File Include="bin/TicketDesk.IO.pdb">
+      <publishTime>05/04/2020 16:36:07</publishTime>
+    </File>
+    <File Include="bin/TicketDesk.Localization.dll">
+      <publishTime>05/04/2020 16:36:08</publishTime>
+    </File>
+    <File Include="bin/TicketDesk.Localization.pdb">
+      <publishTime>05/04/2020 16:36:08</publishTime>
+    </File>
+    <File Include="bin/TicketDesk.PushNotifications.dll">
+      <publishTime>05/04/2020 16:36:19</publishTime>
+    </File>
+    <File Include="bin/TicketDesk.PushNotifications.dll.config">
+      <publishTime>03/16/2020 16:34:07</publishTime>
+    </File>
+    <File Include="bin/TicketDesk.PushNotifications.pdb">
+      <publishTime>05/04/2020 16:36:19</publishTime>
+    </File>
+    <File Include="bin/TicketDesk.Search.Azure.dll">
+      <publishTime>05/04/2020 16:36:12</publishTime>
+    </File>
+    <File Include="bin/TicketDesk.Search.Azure.dll.config">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="bin/TicketDesk.Search.Azure.pdb">
+      <publishTime>05/04/2020 16:36:12</publishTime>
+    </File>
+    <File Include="bin/TicketDesk.Search.Common.dll">
+      <publishTime>05/04/2020 16:36:07</publishTime>
+    </File>
+    <File Include="bin/TicketDesk.Search.Common.pdb">
+      <publishTime>05/04/2020 16:36:07</publishTime>
+    </File>
+    <File Include="bin/TicketDesk.Search.Lucene.dll">
+      <publishTime>05/04/2020 16:36:12</publishTime>
+    </File>
+    <File Include="bin/TicketDesk.Search.Lucene.pdb">
+      <publishTime>05/04/2020 16:36:12</publishTime>
+    </File>
+    <File Include="bin/TicketDesk.Web.Client.dll">
+      <publishTime>05/04/2020 16:36:24</publishTime>
+    </File>
+    <File Include="bin/TicketDesk.Web.Client.pdb">
+      <publishTime>05/04/2020 16:36:24</publishTime>
+    </File>
+    <File Include="bin/TicketDesk.Web.Identity.dll">
+      <publishTime>05/04/2020 16:36:13</publishTime>
+    </File>
+    <File Include="bin/TicketDesk.Web.Identity.dll.config">
+      <publishTime>03/16/2020 16:34:11</publishTime>
+    </File>
+    <File Include="bin/TicketDesk.Web.Identity.pdb">
+      <publishTime>05/04/2020 16:36:13</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>01/23/2014 13:57:34</publishTime>
+    </File>
+    <File Include="bin/X.PagedList.dll">
+      <publishTime>12/24/2015 09:50:30</publishTime>
+    </File>
+    <File Include="bin/X.PagedList.Mvc.dll">
+      <publishTime>12/20/2015 17:43:52</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.Data.Edm.resources.dll">
+      <publishTime>02/01/2017 14:00:38</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.Data.OData.resources.dll">
+      <publishTime>02/01/2017 14:00:22</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>02/01/2017 14:00:18</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Spatial.resources.dll">
+      <publishTime>02/01/2017 14:00:14</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/Microsoft.Data.Edm.resources.dll">
+      <publishTime>02/01/2017 14:00:38</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/Microsoft.Data.OData.resources.dll">
+      <publishTime>02/01/2017 14:00:22</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>02/01/2017 14:00:18</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/System.Spatial.resources.dll">
+      <publishTime>02/01/2017 14:00:14</publishTime>
+    </File>
+    <File Include="Content/bootstrap-datepicker.css">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Content/bootstrap-datepicker3.css">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css.map">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css.map">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css.map">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css.map">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Content/css/select2-bootstrap.css">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Content/css/select2-spinner.gif">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Content/css/select2.css">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Content/css/select2.png">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Content/css/select2x2.png">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Content/daterangepicker.css">
+      <publishTime>03/19/2020 10:09:43</publishTime>
+    </File>
+    <File Include="Content/font-awesome.css">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Content/font-awesome.min.css">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Content/Images/arrow_down.png">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Content/Images/arrow_top.png">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Content/Images/general-file.png">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Content/Images/TicketDesk-2.5-mobile.png">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Content/Images/TicketDesk-2.5.png">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Content/PagedList.css">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Content/site.css">
+      <publishTime>03/29/2020 17:45:46</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>03/16/2020 16:34:09</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.eot">
+      <publishTime>03/16/2020 16:34:09</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.svg">
+      <publishTime>03/16/2020 16:34:09</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.ttf">
+      <publishTime>03/16/2020 16:34:09</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.woff">
+      <publishTime>03/16/2020 16:34:09</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.woff2">
+      <publishTime>03/16/2020 16:34:09</publishTime>
+    </File>
+    <File Include="fonts/FontAwesome.otf">
+      <publishTime>03/16/2020 16:34:09</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>03/16/2020 16:34:09</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>03/16/2020 16:34:09</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>03/16/2020 16:34:09</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>03/16/2020 16:34:09</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>03/16/2020 16:34:09</publishTime>
+    </File>
+    <File Include="logo.png">
+      <publishTime>03/30/2020 09:41:22</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>05/04/2020 16:36:25</publishTime>
+    </File>
+    <File Include="Properties/webjobs-list.json">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="robots.txt">
+      <publishTime>03/16/2020 16:34:11</publishTime>
+    </File>
+    <File Include="Scripts/ai.0.22.9-build00167.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/ai.0.22.9-build00167.min.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap-datepicker.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/cldr.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/cldr/event.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/cldr/supplemental.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/cldr/unresolved.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/daterangepicker.min.js">
+      <publishTime>03/27/2020 11:57:21</publishTime>
+    </File>
+    <File Include="Scripts/dropzone/basic.css">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/dropzone/basic.min.css">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/dropzone/dropzone-amd-module.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/dropzone/dropzone-amd-module.min.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/dropzone/dropzone.css">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/dropzone/dropzone.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/dropzone/dropzone.min.css">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/dropzone/dropzone.min.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery-2.2.2.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery-2.2.2.min.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery-2.2.2.min.map">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.clickable-0.1.9.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.clickable-0.1.9.min.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.clickable-0.1.9.min.js.map">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.af-ZA.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.af.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.am-ET.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.am.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ar-AE.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ar-BH.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ar-DZ.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ar-EG.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ar-IQ.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ar-JO.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ar-KW.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ar-LB.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ar-LY.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ar-MA.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ar-OM.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ar-QA.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ar-SA.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ar-SY.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ar-TN.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ar-YE.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ar.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.arn-CL.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.arn.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.as-IN.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.as.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.az-Cyrl-AZ.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.az-Cyrl.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.az-Latn-AZ.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.az-Latn.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.az.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ba-RU.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ba.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.be-BY.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.be.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.bg-BG.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.bg.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.bn-BD.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.bn-IN.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.bn.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.bo-CN.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.bo.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.br-FR.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.br.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.bs-Cyrl-BA.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.bs-Cyrl.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.bs-Latn-BA.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.bs-Latn.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.bs.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ca-ES.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ca.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.co-FR.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.co.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.cs-CZ.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.cs.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.cy-GB.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.cy.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.da-DK.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.da.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.de-AT.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.de-CH.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.de-DE.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.de-LI.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.de-LU.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.de.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.dsb-DE.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.dsb.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.dv-MV.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.dv.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.el-GR.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.el.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.en-029.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.en-AU.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.en-BZ.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.en-CA.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.en-GB.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.en-IE.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.en-IN.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.en-JM.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.en-MY.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.en-NZ.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.en-PH.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.en-SG.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.en-TT.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.en-US.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.en-ZA.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.en-ZW.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.es-AR.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.es-BO.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.es-CL.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.es-CO.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.es-CR.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.es-DO.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.es-EC.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.es-ES.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.es-GT.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.es-HN.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.es-MX.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.es-NI.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.es-PA.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.es-PE.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.es-PR.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.es-PY.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.es-SV.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.es-US.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.es-UY.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.es-VE.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.es.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.et-EE.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.et.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.eu-ES.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.eu.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.fa-IR.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.fa.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.fi-FI.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.fi.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.fil-PH.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.fil.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.fo-FO.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.fo.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.fr-BE.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.fr-CA.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.fr-CH.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.fr-FR.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.fr-LU.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.fr-MC.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.fr.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.fy-NL.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.fy.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ga-IE.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ga.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.gd-GB.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.gd.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.gl-ES.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.gl.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.gsw-FR.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.gsw.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.gu-IN.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.gu.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ha-Latn-NG.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ha-Latn.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ha.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.he-IL.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.he.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.hi-IN.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.hi.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.hr-BA.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.hr-HR.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.hr.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.hsb-DE.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.hsb.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.hu-HU.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.hu.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.hy-AM.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.hy.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.id-ID.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.id.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ig-NG.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ig.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ii-CN.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ii.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.is-IS.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.is.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.it-CH.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.it-IT.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.it.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.iu-Cans-CA.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.iu-Cans.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.iu-Latn-CA.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.iu-Latn.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.iu.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ja-JP.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ja.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ka-GE.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ka.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.kk-KZ.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.kk.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.kl-GL.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.kl.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.km-KH.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.km.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.kn-IN.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.kn.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ko-KR.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ko.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.kok-IN.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.kok.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ky-KG.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ky.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.lb-LU.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.lb.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.lo-LA.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.lo.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.lt-LT.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.lt.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.lv-LV.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.lv.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.mi-NZ.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.mi.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.mk-MK.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.mk.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ml-IN.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ml.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.mn-Cyrl.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.mn-MN.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.mn-Mong-CN.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.mn-Mong.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.mn.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.moh-CA.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.moh.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.mr-IN.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.mr.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ms-BN.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ms-MY.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ms.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.mt-MT.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.mt.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.nb-NO.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.nb.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ne-NP.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ne.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.nl-BE.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.nl-NL.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.nl.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.nn-NO.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.nn.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.no.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.nso-ZA.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.nso.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.oc-FR.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.oc.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.or-IN.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.or.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.pa-IN.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.pa.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.pl-PL.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.pl.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.prs-AF.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.prs.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ps-AF.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ps.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.pt-BR.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.pt-PT.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.pt.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.qut-GT.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.qut.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.quz-BO.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.quz-EC.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.quz-PE.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.quz.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.rm-CH.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.rm.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ro-RO.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ro.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ru-RU.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ru.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.rw-RW.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.rw.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.sa-IN.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.sa.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.sah-RU.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.sah.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.se-FI.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.se-NO.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.se-SE.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.se.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.si-LK.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.si.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.sk-SK.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.sk.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.sl-SI.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.sl.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.sma-NO.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.sma-SE.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.sma.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.smj-NO.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.smj-SE.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.smj.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.smn-FI.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.smn.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.sms-FI.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.sms.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.sq-AL.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.sq.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.sr-Cyrl-BA.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.sr-Cyrl-CS.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.sr-Cyrl-ME.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.sr-Cyrl-RS.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.sr-Cyrl.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.sr-Latn-BA.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.sr-Latn-CS.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.sr-Latn-ME.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.sr-Latn-RS.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.sr-Latn.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.sr.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.sv-FI.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.sv-SE.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.sv.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.sw-KE.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.sw.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.syr-SY.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.syr.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ta-IN.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ta.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.te-IN.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.te.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.tg-Cyrl-TJ.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.tg-Cyrl.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.tg.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.th-TH.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.th.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.tk-TM.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.tk.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.tn-ZA.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.tn.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.tr-TR.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.tr.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.tt-RU.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.tt.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.tzm-Latn-DZ.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.tzm-Latn.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.tzm.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ug-CN.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ug.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.uk-UA.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.uk.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ur-PK.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.ur.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.uz-Cyrl-UZ.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.uz-Cyrl.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.uz-Latn-UZ.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.uz-Latn.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.uz.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.vi-VN.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.vi.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.wo-SN.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.wo.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.xh-ZA.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.xh.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.yo-NG.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.yo.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.zh-CHS.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.zh-CHT.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.zh-CN.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.zh-Hans.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.zh-Hant.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.zh-HK.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.zh-MO.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.zh-SG.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.zh-TW.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.zh.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.zu-ZA.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.culture.zu.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/cultures/globalize.cultures.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.globalize/globalize.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.ui.sortable/jquery-ui-custom.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.unobtrusive-ajax.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.unobtrusive-ajax.min.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.globalize.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.globalize.min.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.globalize.min.js.map">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.min.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.min.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/jQueryValidate-locales/jquery.validate_locale_pt-BR.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.ar.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.az.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.bg.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.ca.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.cs.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.cy.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.da.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.de.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.el.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.es.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.et.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.fa.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.fi.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.fr.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.gl.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.he.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.hr.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.hu.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.id.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.is.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.it.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.ja.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.ka.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.kk.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.kr.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.lt.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.lv.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.mk.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.ms.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.nb.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.nl-BE.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.nl.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.no.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.pl.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.pt-BR.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.pt.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.ro.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.rs-latin.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.rs.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.ru.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.sk.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.sl.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.sq.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.sv.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.sw.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.th.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.tr.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.ua.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.vi.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.zh-CN.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/locales/bootstrap-datepicker.zh-TW.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.8.3.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/moment.min.js">
+      <publishTime>03/19/2020 10:10:20</publishTime>
+    </File>
+    <File Include="Scripts/pagedown/Markdown.Converter.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/pagedown/Markdown.Editor.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/pagedown/Markdown.Sanitizer.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_ar.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_az.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_bg.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_ca.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_cs.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_da.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_de.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_el.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_es.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_et.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_eu.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_fa.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_fi.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_fr.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_gl.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_he.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_hr.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_hu.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_id.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_is.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_it.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_ja.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_ka.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_ko.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_lt.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_lv.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_mk.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_ms.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_nb.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_nl.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_pl.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_pt-BR.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_pt-PT.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_ro.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_rs.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_ru.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_sk.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_sv.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_th.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_tr.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_ua.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_ug-CN.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_uk.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_vi.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_zh-CN.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/Select2-locales/select2_locale_zh-TW.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/select2.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/select2.min.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/summernote/summernote-pt-BR.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/summernote/summernote.css">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/summernote/summernote.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/summernote/summernote.min.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/ticketdesk/admin-edit-user.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/ticketdesk/admin-users.js">
+      <publishTime>04/23/2020 15:55:48</publishTime>
+    </File>
+    <File Include="Scripts/ticketdesk/application-settings.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/ticketdesk/edit-ticket.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/ticketdesk/locale_en-US.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/ticketdesk/locale_pt-BR.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/ticketdesk/search.js">
+      <publishTime>04/23/2020 15:56:01</publishTime>
+    </File>
+    <File Include="Scripts/ticketdesk/ticket-details.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/ticketdesk/ticket-file-uploader.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/ticketdesk/ticket-tags.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/ticketdesk/ticketcenter.js">
+      <publishTime>05/04/2020 16:23:37</publishTime>
+    </File>
+    <File Include="Scripts/ticketdesk/ticketcenter.min.js">
+      <publishTime>04/23/2020 15:56:46</publishTime>
+    </File>
+    <File Include="Scripts/ticketdesk/ticketcenter.min.js.map">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Scripts/_references.js">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Service References/Application Insights/ConnectedService.json">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/Account/ChangePassword.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/Account/EditProfile.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/Account/Manage.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/ApplicationSettings/Index.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/DataManagement/Demo.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/DataManagement/Index.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/Emails/Ticket.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/Emails/Ticket.Html.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/Emails/Ticket.Text.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/Emails/Web.config">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/Emails/_ViewStart.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/FirstRunSetup/CheckUpgradeProgress.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/FirstRunSetup/Index.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/FirstRunSetup/_AzureInfo.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/FirstRunSetup/_DatabaseInfo.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/FirstRunSetup/_LegacyDatabase.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/FirstRunSetup/_LegacySecurity.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/FirstRunSetup/_NewDatabase.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/FirstRunSetup/_SetupCompleteInfo.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/FirstRunSetup/_ViewStart.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/Home/About.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/Home/AccessDenied.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>03/30/2020 11:15:48</publishTime>
+    </File>
+    <File Include="Views/ProjectSettings/Edit.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/ProjectSettings/Index.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/ProjectSettings/New.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/PushNotificationSettings/ConfigureDeliveryProvider.cshtml">
+      <publishTime>03/30/2020 11:05:00</publishTime>
+    </File>
+    <File Include="Views/PushNotificationSettings/Index.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/PushNotificationSettings/ListDeliveryProviderSettings.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/Search/Index.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/SearchManager/Index.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/Shared/DisplayTemplates/Enum.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/Shared/Error.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/Shared/Lockout.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/Shared/_AdminMenu.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/Shared/_AdminMenuItems.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/Shared/_LanguageOptions.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>03/30/2020 12:08:05</publishTime>
+    </File>
+    <File Include="Views/Shared/_ProjectMenu.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/Shared/_QuickSearch.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/Shared/_UserMenu.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/Ticket/Index.cshtml">
+      <publishTime>03/30/2020 11:16:44</publishTime>
+    </File>
+    <File Include="Views/Ticket/New.cshtml">
+      <publishTime>03/19/2020 15:50:27</publishTime>
+    </File>
+    <File Include="Views/Ticket/_TicketDetails.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/Ticket/_TicketEvents.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/Ticket/_TicketFiles.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/TicketActivity/_ActivityButtons.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/TicketActivity/_ActivityComment.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/TicketActivity/_ActivityForm.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/TicketActivity/_AddComment.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/TicketActivity/_Assign.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/TicketActivity/_CancelMoreInfo.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/TicketActivity/_ChangeAssignment.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/TicketActivity/_Close.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/TicketActivity/_EditTicketInfo.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/TicketActivity/_ForceClose.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/TicketActivity/_GiveUp.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/TicketActivity/_ModifyAttachments.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/TicketActivity/_Pass.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/TicketActivity/_ReAssign.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/TicketActivity/_ReOpen.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/TicketActivity/_RequestMoreInfo.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/TicketActivity/_Resolve.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/TicketActivity/_SupplyMoreInfo.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/TicketActivity/_TakeOver.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/TicketCenter/Index.cshtml">
+      <publishTime>05/04/2020 16:34:27</publishTime>
+    </File>
+    <File Include="Views/TicketCenter/_FilterBar.cshtml">
+      <publishTime>05/04/2020 15:22:43</publishTime>
+    </File>
+    <File Include="Views/TicketCenter/_ListMenu.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/TicketCenter/_TicketList.cshtml">
+      <publishTime>05/04/2020 15:27:40</publishTime>
+    </File>
+    <File Include="Views/User/ForgetPassword.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/User/Lockout.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/User/Register.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/User/SignIn.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/UserAdministration/Edit.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/UserAdministration/Index.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/UserAdministration/New.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/UserAdministration/_UserList.cshtml">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>03/16/2020 16:34:08</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>03/30/2020 11:13:30</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/23/2020 14:50:18</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

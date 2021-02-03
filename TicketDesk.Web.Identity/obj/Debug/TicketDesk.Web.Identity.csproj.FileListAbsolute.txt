@@ -1,0 +1,92 @@
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Web.Identity\bin\Debug\TicketDesk.Web.Identity.dll.config
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Web.Identity\bin\Debug\TicketDesk.Web.Identity.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Web.Identity\bin\Debug\TicketDesk.Web.Identity.pdb
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Web.Identity\bin\Debug\EntityFramework.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Web.Identity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Web.Identity\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Web.Identity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Web.Identity\bin\Debug\System.ValueTuple.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Web.Identity\bin\Debug\TicketDesk.Localization.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Web.Identity\bin\Debug\TicketDesk.Localization.pdb
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Web.Identity\bin\Debug\EntityFramework.xml
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Web.Identity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Web.Identity\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Web.Identity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Web.Identity\bin\Debug\System.ValueTuple.xml
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Web.Identity\bin\Debug\de-DE\TicketDesk.Localization.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Web.Identity\bin\Debug\pt-BR\TicketDesk.Localization.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Web.Identity\obj\Debug\TicketDesk.Web.Identity.csprojAssemblyReference.cache
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Web.Identity\obj\Debug\TicketDesk.Web.Identity.csproj.CopyComplete
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Web.Identity\obj\Debug\TicketDesk.Web.Identity.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Web.Identity\obj\Debug\TicketDesk.Web.Identity.pdb
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Web.Identity\obj\Debug\TicketDesk.Web.Identity.Migrations.addDB24022020.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Web.Identity\obj\Debug\TicketDesk.Web.Identity.csproj.GenerateResource.cache
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Web.Identity\bin\Debug\TicketDesk.Web.Identity.dll.config
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Web.Identity\bin\Debug\TicketDesk.Web.Identity.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Web.Identity\bin\Debug\TicketDesk.Web.Identity.pdb
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Web.Identity\bin\Debug\EntityFramework.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Web.Identity\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Web.Identity\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Web.Identity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Web.Identity\bin\Debug\System.ValueTuple.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Web.Identity\bin\Debug\TicketDesk.Localization.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Web.Identity\bin\Debug\TicketDesk.Localization.pdb
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Web.Identity\bin\Debug\EntityFramework.xml
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Web.Identity\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Web.Identity\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Web.Identity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Web.Identity\bin\Debug\System.ValueTuple.xml
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Web.Identity\bin\Debug\de-DE\TicketDesk.Localization.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Web.Identity\bin\Debug\pt-BR\TicketDesk.Localization.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Web.Identity\obj\Debug\TicketDesk.Web.Identity.csprojAssemblyReference.cache
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Web.Identity\obj\Debug\TicketDesk.Web.Identity.Migrations.addDB24022020.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Web.Identity\obj\Debug\TicketDesk.Web.Identity.csproj.GenerateResource.cache
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Web.Identity\obj\Debug\TicketDesk.Web.Identity.csproj.CopyComplete
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Web.Identity\obj\Debug\TicketDesk.Web.Identity.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Web.Identity\obj\Debug\TicketDesk.Web.Identity.pdb
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Web.Identity\bin\Debug\TicketDesk.Web.Identity.dll.config
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Web.Identity\bin\Debug\TicketDesk.Web.Identity.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Web.Identity\bin\Debug\TicketDesk.Web.Identity.pdb
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Web.Identity\bin\Debug\EntityFramework.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Web.Identity\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Web.Identity\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Web.Identity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Web.Identity\bin\Debug\System.ValueTuple.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Web.Identity\bin\Debug\TicketDesk.Localization.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Web.Identity\bin\Debug\TicketDesk.Localization.pdb
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Web.Identity\bin\Debug\EntityFramework.xml
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Web.Identity\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Web.Identity\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Web.Identity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Web.Identity\bin\Debug\System.ValueTuple.xml
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Web.Identity\bin\Debug\de-DE\TicketDesk.Localization.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Web.Identity\bin\Debug\pt-BR\TicketDesk.Localization.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Web.Identity\obj\Debug\TicketDesk.Web.Identity.csprojAssemblyReference.cache
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Web.Identity\obj\Debug\TicketDesk.Web.Identity.Migrations.addDB24022020.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Web.Identity\obj\Debug\TicketDesk.Web.Identity.csproj.GenerateResource.cache
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Web.Identity\obj\Debug\TicketDesk.Web.Identity.csproj.CopyComplete
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Web.Identity\obj\Debug\TicketDesk.Web.Identity.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Web.Identity\obj\Debug\TicketDesk.Web.Identity.pdb
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Web.Identity\bin\Debug\TicketDesk.Web.Identity.dll.config
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Web.Identity\bin\Debug\TicketDesk.Web.Identity.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Web.Identity\bin\Debug\TicketDesk.Web.Identity.pdb
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Web.Identity\bin\Debug\EntityFramework.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Web.Identity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Web.Identity\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Web.Identity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Web.Identity\bin\Debug\System.ValueTuple.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Web.Identity\bin\Debug\TicketDesk.Localization.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Web.Identity\bin\Debug\TicketDesk.Localization.pdb
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Web.Identity\bin\Debug\EntityFramework.xml
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Web.Identity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Web.Identity\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Web.Identity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Web.Identity\bin\Debug\System.ValueTuple.xml
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Web.Identity\bin\Debug\de-DE\TicketDesk.Localization.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Web.Identity\bin\Debug\pt-BR\TicketDesk.Localization.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Web.Identity\obj\Debug\TicketDesk.Web.Identity.csprojAssemblyReference.cache
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Web.Identity\obj\Debug\TicketDesk.Web.Identity.Migrations.addDB24022020.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Web.Identity\obj\Debug\TicketDesk.Web.Identity.csproj.GenerateResource.cache
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Web.Identity\obj\Debug\TicketDesk.Web.Identity.csproj.CopyComplete
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Web.Identity\obj\Debug\TicketDesk.Web.Identity.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Web.Identity\obj\Debug\TicketDesk.Web.Identity.pdb

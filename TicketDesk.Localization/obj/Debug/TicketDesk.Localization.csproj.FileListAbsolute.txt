@@ -1,0 +1,511 @@
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\bin\Debug\TicketDesk.Localization.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\bin\Debug\TicketDesk.Localization.pdb
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\bin\Debug\de-DE\TicketDesk.Localization.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\bin\Debug\pt-BR\TicketDesk.Localization.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\bin\Debug\System.ValueTuple.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\bin\Debug\System.ValueTuple.xml
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.csprojAssemblyReference.cache
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Controllers.Strings.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Domain.Strings.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Validation.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Identity.Strings.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Infrastructure.Strings.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Models.Strings.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.PushNotifications.Strings.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Account.ChangePassword.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Account.EditProfile.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Account.Manage.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ApplicationSettings.Index.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.DataManagement.Demo.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.DataManagement.Index.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Emails.Strings.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Home.About.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Home.AccessDenied.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Home.Index.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ProjectSettings.Edit.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ProjectSettings.Index.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ProjectSettings.New.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.PushNotificationSettings.ConfigureDeliveryProvider.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.PushNotificationSettings.Index.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.PushNotificationSettings.ListDeliveryProviderSettings.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.SearchManager.Index.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Search.Index.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Shared.Error.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Shared.Lockout.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Shared._Layout.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.TicketActivity.Strings.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.TicketCenter.Index.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Ticket.Index.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Ticket.New.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.UserAdministration.Edit.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.UserAdministration.Index.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.User.Lockout.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.UserAdministration.New.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.User.Register.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.User.SignIn.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Controllers.Strings.de-DE.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Controllers.Strings.pt-BR.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Domain.Strings.de-DE.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Domain.Strings.pt-BR.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Identity.Strings.de-DE.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Infrastructure.Strings.de-DE.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Models.Strings.de-DE.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.PushNotifications.Strings.de-DE.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Validation.de-DE.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Validation.pt-BR.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Identity.Strings.pt-BR.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Infrastructure.Strings.pt-BR.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Models.Strings.pt-BR.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.PushNotifications.Strings.pt-BR.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Account.ChangePassword.de-DE.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Account.ChangePassword.pt-BR.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Account.EditProfile.de-DE.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Account.EditProfile.pt-BR.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Account.Manage.de-DE.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Account.Manage.pt-BR.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ApplicationSettings.Index.de-DE.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ApplicationSettings.Index.pt-BR.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.DataManagement.Demo.de-DE.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.DataManagement.Demo.pt-BR.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.DataManagement.Index.de-DE.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.DataManagement.Index.pt-BR.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Emails.Strings.de-DE.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Emails.Strings.pt-BR.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Home.About.de-DE.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Home.About.pt-BR.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Home.AccessDenied.de-DE.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Home.AccessDenied.pt-BR.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Home.Index.de-DE.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Home.Index.pt-BR.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ProjectSettings.Edit.de-DE.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ProjectSettings.Edit.pt-BR.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ProjectSettings.Index.de-DE.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ProjectSettings.Index.pt-BR.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ProjectSettings.New.de-DE.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ProjectSettings.New.pt-BR.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.PushNotificationSettings.ConfigureDeliveryProvider.de-DE.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.PushNotificationSettings.ConfigureDeliveryProvider.pt-BR.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.PushNotificationSettings.Index.de-DE.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.PushNotificationSettings.Index.pt-BR.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.PushNotificationSettings.ListDeliveryProviderSettings.de-DE.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.PushNotificationSettings.ListDeliveryProviderSettings.pt-BR.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.SearchManager.Index.de-DE.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.SearchManager.Index.pt-BR.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Search.Index.de-DE.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Search.Index.pt-BR.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Shared.Error.pt-BR.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Shared.Lockout.pt-BR.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Shared._Layout.pt-BR.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.TicketActivity.Strings.de-DE.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.TicketActivity.Strings.pt-BR.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.TicketCenter.Index.de-DE.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.TicketCenter.Index.pt-BR.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Shared.Error.de-DE.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Ticket.Index.de-DE.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Ticket.Index.pt-BR.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Shared.Lockout.de-DE.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Ticket.New.de-DE.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Ticket.New.pt-BR.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Shared._Layout.de-DE.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.UserAdministration.Edit.de-DE.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.UserAdministration.Edit.pt-BR.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.UserAdministration.Index.de-DE.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.UserAdministration.Index.pt-BR.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.UserAdministration.New.de-DE.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.UserAdministration.New.pt-BR.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.User.Lockout.de-DE.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.User.Lockout.pt-BR.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.User.Register.de-DE.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.User.Register.pt-BR.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.User.SignIn.de-DE.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.User.SignIn.pt-BR.resources
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.csproj.GenerateResource.cache
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\de-DE\TicketDesk.Localization.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\pt-BR\TicketDesk.Localization.resources.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.csproj.CopyComplete
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.dll
+C:\Users\Win 10\Downloads\ticketdesk-develop\ticketdesk-develop\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.pdb
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\bin\Debug\TicketDesk.Localization.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\bin\Debug\TicketDesk.Localization.pdb
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\bin\Debug\de-DE\TicketDesk.Localization.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\bin\Debug\pt-BR\TicketDesk.Localization.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\bin\Debug\System.ValueTuple.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\bin\Debug\System.ValueTuple.xml
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.csprojAssemblyReference.cache
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Controllers.Strings.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Domain.Strings.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Validation.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Identity.Strings.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Infrastructure.Strings.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Models.Strings.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.PushNotifications.Strings.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Account.ChangePassword.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Account.EditProfile.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Account.Manage.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ApplicationSettings.Index.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.DataManagement.Demo.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.DataManagement.Index.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Emails.Strings.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Home.About.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Home.AccessDenied.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Home.Index.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ProjectSettings.Edit.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ProjectSettings.Index.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ProjectSettings.New.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.PushNotificationSettings.ConfigureDeliveryProvider.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.PushNotificationSettings.Index.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.PushNotificationSettings.ListDeliveryProviderSettings.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.SearchManager.Index.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Search.Index.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Shared.Error.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Shared.Lockout.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Shared._Layout.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.TicketActivity.Strings.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.TicketCenter.Index.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Ticket.Index.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Ticket.New.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.UserAdministration.Edit.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.UserAdministration.Index.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.User.Lockout.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.UserAdministration.New.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.User.Register.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.User.SignIn.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Controllers.Strings.de-DE.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Controllers.Strings.pt-BR.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Domain.Strings.de-DE.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Domain.Strings.pt-BR.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Identity.Strings.de-DE.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Infrastructure.Strings.de-DE.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Models.Strings.de-DE.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.PushNotifications.Strings.de-DE.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Validation.de-DE.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Validation.pt-BR.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Identity.Strings.pt-BR.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Infrastructure.Strings.pt-BR.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Models.Strings.pt-BR.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.PushNotifications.Strings.pt-BR.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Account.ChangePassword.de-DE.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Account.ChangePassword.pt-BR.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Account.EditProfile.de-DE.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Account.EditProfile.pt-BR.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Account.Manage.de-DE.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Account.Manage.pt-BR.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ApplicationSettings.Index.de-DE.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ApplicationSettings.Index.pt-BR.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.DataManagement.Demo.de-DE.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.DataManagement.Demo.pt-BR.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.DataManagement.Index.de-DE.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.DataManagement.Index.pt-BR.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Emails.Strings.de-DE.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Emails.Strings.pt-BR.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Home.About.de-DE.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Home.About.pt-BR.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Home.AccessDenied.de-DE.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Home.AccessDenied.pt-BR.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Home.Index.de-DE.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Home.Index.pt-BR.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ProjectSettings.Edit.de-DE.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ProjectSettings.Edit.pt-BR.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ProjectSettings.Index.de-DE.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ProjectSettings.Index.pt-BR.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ProjectSettings.New.de-DE.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ProjectSettings.New.pt-BR.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.PushNotificationSettings.ConfigureDeliveryProvider.de-DE.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.PushNotificationSettings.ConfigureDeliveryProvider.pt-BR.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.PushNotificationSettings.Index.de-DE.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.PushNotificationSettings.Index.pt-BR.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.PushNotificationSettings.ListDeliveryProviderSettings.de-DE.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.PushNotificationSettings.ListDeliveryProviderSettings.pt-BR.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.SearchManager.Index.de-DE.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.SearchManager.Index.pt-BR.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Search.Index.de-DE.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Search.Index.pt-BR.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Shared.Error.pt-BR.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Shared.Lockout.pt-BR.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Shared._Layout.pt-BR.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.TicketActivity.Strings.de-DE.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.TicketActivity.Strings.pt-BR.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.TicketCenter.Index.de-DE.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.TicketCenter.Index.pt-BR.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Shared.Error.de-DE.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Ticket.Index.de-DE.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Ticket.Index.pt-BR.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Shared.Lockout.de-DE.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Ticket.New.de-DE.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Ticket.New.pt-BR.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Shared._Layout.de-DE.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.UserAdministration.Edit.de-DE.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.UserAdministration.Edit.pt-BR.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.UserAdministration.Index.de-DE.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.UserAdministration.Index.pt-BR.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.UserAdministration.New.de-DE.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.UserAdministration.New.pt-BR.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.User.Lockout.de-DE.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.User.Lockout.pt-BR.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.User.Register.de-DE.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.User.Register.pt-BR.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.User.SignIn.de-DE.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.User.SignIn.pt-BR.resources
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.csproj.GenerateResource.cache
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\de-DE\TicketDesk.Localization.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\pt-BR\TicketDesk.Localization.resources.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.csproj.CopyComplete
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.dll
+D:\Tan Thanh Container\TicketDesk\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.pdb
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\bin\Debug\TicketDesk.Localization.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\bin\Debug\TicketDesk.Localization.pdb
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\bin\Debug\de-DE\TicketDesk.Localization.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\bin\Debug\pt-BR\TicketDesk.Localization.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\bin\Debug\System.ValueTuple.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\bin\Debug\System.ValueTuple.xml
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.csprojAssemblyReference.cache
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Controllers.Strings.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Domain.Strings.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Validation.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Identity.Strings.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Infrastructure.Strings.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Models.Strings.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.PushNotifications.Strings.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Account.ChangePassword.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Account.EditProfile.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Account.Manage.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ApplicationSettings.Index.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.DataManagement.Demo.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.DataManagement.Index.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Emails.Strings.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Home.About.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Home.AccessDenied.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Home.Index.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ProjectSettings.Edit.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ProjectSettings.Index.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ProjectSettings.New.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.PushNotificationSettings.ConfigureDeliveryProvider.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.PushNotificationSettings.Index.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.PushNotificationSettings.ListDeliveryProviderSettings.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.SearchManager.Index.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Search.Index.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Shared.Error.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Shared.Lockout.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Shared._Layout.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.TicketActivity.Strings.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.TicketCenter.Index.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Ticket.Index.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Ticket.New.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.UserAdministration.Edit.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.UserAdministration.Index.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.User.Lockout.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.UserAdministration.New.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.User.Register.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.User.SignIn.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Controllers.Strings.de-DE.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Controllers.Strings.pt-BR.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Domain.Strings.de-DE.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Domain.Strings.pt-BR.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Identity.Strings.de-DE.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Infrastructure.Strings.de-DE.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Models.Strings.de-DE.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.PushNotifications.Strings.de-DE.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Validation.de-DE.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Validation.pt-BR.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Identity.Strings.pt-BR.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Infrastructure.Strings.pt-BR.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Models.Strings.pt-BR.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.PushNotifications.Strings.pt-BR.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Account.ChangePassword.de-DE.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Account.ChangePassword.pt-BR.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Account.EditProfile.de-DE.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Account.EditProfile.pt-BR.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Account.Manage.de-DE.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Account.Manage.pt-BR.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ApplicationSettings.Index.de-DE.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ApplicationSettings.Index.pt-BR.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.DataManagement.Demo.de-DE.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.DataManagement.Demo.pt-BR.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.DataManagement.Index.de-DE.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.DataManagement.Index.pt-BR.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Emails.Strings.de-DE.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Emails.Strings.pt-BR.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Home.About.de-DE.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Home.About.pt-BR.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Home.AccessDenied.de-DE.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Home.AccessDenied.pt-BR.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Home.Index.de-DE.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Home.Index.pt-BR.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ProjectSettings.Edit.de-DE.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ProjectSettings.Edit.pt-BR.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ProjectSettings.Index.de-DE.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ProjectSettings.Index.pt-BR.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ProjectSettings.New.de-DE.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ProjectSettings.New.pt-BR.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.PushNotificationSettings.ConfigureDeliveryProvider.de-DE.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.PushNotificationSettings.ConfigureDeliveryProvider.pt-BR.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.PushNotificationSettings.Index.de-DE.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.PushNotificationSettings.Index.pt-BR.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.PushNotificationSettings.ListDeliveryProviderSettings.de-DE.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.PushNotificationSettings.ListDeliveryProviderSettings.pt-BR.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.SearchManager.Index.de-DE.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.SearchManager.Index.pt-BR.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Search.Index.de-DE.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Search.Index.pt-BR.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Shared.Error.pt-BR.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Shared.Lockout.pt-BR.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Shared._Layout.pt-BR.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.TicketActivity.Strings.de-DE.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.TicketActivity.Strings.pt-BR.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.TicketCenter.Index.de-DE.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.TicketCenter.Index.pt-BR.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Shared.Error.de-DE.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Ticket.Index.de-DE.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Ticket.Index.pt-BR.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Shared.Lockout.de-DE.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Ticket.New.de-DE.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Ticket.New.pt-BR.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Shared._Layout.de-DE.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.UserAdministration.Edit.de-DE.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.UserAdministration.Edit.pt-BR.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.UserAdministration.Index.de-DE.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.UserAdministration.Index.pt-BR.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.UserAdministration.New.de-DE.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.UserAdministration.New.pt-BR.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.User.Lockout.de-DE.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.User.Lockout.pt-BR.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.User.Register.de-DE.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.User.Register.pt-BR.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.User.SignIn.de-DE.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.User.SignIn.pt-BR.resources
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.csproj.GenerateResource.cache
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\de-DE\TicketDesk.Localization.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\pt-BR\TicketDesk.Localization.resources.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.csproj.CopyComplete
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.dll
+D:\Tan Thanh Container\TicketDeskSystem\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.pdb
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\bin\Debug\TicketDesk.Localization.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\bin\Debug\TicketDesk.Localization.pdb
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\bin\Debug\de-DE\TicketDesk.Localization.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\bin\Debug\pt-BR\TicketDesk.Localization.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\bin\Debug\System.ValueTuple.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\bin\Debug\System.ValueTuple.xml
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.csprojAssemblyReference.cache
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Controllers.Strings.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Domain.Strings.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Validation.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Identity.Strings.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Infrastructure.Strings.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Models.Strings.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.PushNotifications.Strings.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Account.ChangePassword.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Account.EditProfile.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Account.Manage.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ApplicationSettings.Index.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.DataManagement.Demo.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.DataManagement.Index.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Emails.Strings.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Home.About.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Home.AccessDenied.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Home.Index.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ProjectSettings.Edit.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ProjectSettings.Index.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ProjectSettings.New.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.PushNotificationSettings.ConfigureDeliveryProvider.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.PushNotificationSettings.Index.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.PushNotificationSettings.ListDeliveryProviderSettings.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.SearchManager.Index.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Search.Index.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Shared.Error.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Shared.Lockout.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Shared._Layout.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.TicketActivity.Strings.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.TicketCenter.Index.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Ticket.Index.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Ticket.New.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.UserAdministration.Edit.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.UserAdministration.Index.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.User.ForgetPassword.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.User.Lockout.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.UserAdministration.New.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.User.Register.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.User.SignIn.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Controllers.Strings.de-DE.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Controllers.Strings.pt-BR.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Domain.Strings.de-DE.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Domain.Strings.pt-BR.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Identity.Strings.de-DE.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Infrastructure.Strings.de-DE.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Models.Strings.de-DE.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.PushNotifications.Strings.de-DE.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Validation.de-DE.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Validation.pt-BR.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Identity.Strings.pt-BR.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Infrastructure.Strings.pt-BR.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Models.Strings.pt-BR.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.PushNotifications.Strings.pt-BR.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Account.ChangePassword.de-DE.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Account.ChangePassword.pt-BR.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Account.EditProfile.de-DE.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Account.EditProfile.pt-BR.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Account.Manage.de-DE.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Account.Manage.pt-BR.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ApplicationSettings.Index.de-DE.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ApplicationSettings.Index.pt-BR.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.DataManagement.Demo.de-DE.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.DataManagement.Demo.pt-BR.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.DataManagement.Index.de-DE.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.DataManagement.Index.pt-BR.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Emails.Strings.de-DE.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Emails.Strings.pt-BR.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Home.About.de-DE.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Home.About.pt-BR.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Home.AccessDenied.de-DE.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Home.AccessDenied.pt-BR.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Home.Index.de-DE.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Home.Index.pt-BR.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ProjectSettings.Edit.de-DE.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ProjectSettings.Edit.pt-BR.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ProjectSettings.Index.de-DE.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ProjectSettings.Index.pt-BR.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ProjectSettings.New.de-DE.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.ProjectSettings.New.pt-BR.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.PushNotificationSettings.ConfigureDeliveryProvider.de-DE.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.PushNotificationSettings.ConfigureDeliveryProvider.pt-BR.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.PushNotificationSettings.Index.de-DE.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.PushNotificationSettings.Index.pt-BR.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.PushNotificationSettings.ListDeliveryProviderSettings.de-DE.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.PushNotificationSettings.ListDeliveryProviderSettings.pt-BR.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.SearchManager.Index.de-DE.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.SearchManager.Index.pt-BR.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Search.Index.de-DE.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Search.Index.pt-BR.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Shared.Error.pt-BR.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Shared.Lockout.pt-BR.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Shared._Layout.pt-BR.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.TicketActivity.Strings.de-DE.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.TicketActivity.Strings.pt-BR.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.TicketCenter.Index.de-DE.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.TicketCenter.Index.pt-BR.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Shared.Error.de-DE.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Ticket.Index.de-DE.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Ticket.Index.pt-BR.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Shared.Lockout.de-DE.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Ticket.New.de-DE.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Ticket.New.pt-BR.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.Shared._Layout.de-DE.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.UserAdministration.Edit.de-DE.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.UserAdministration.Edit.pt-BR.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.UserAdministration.Index.de-DE.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.UserAdministration.Index.pt-BR.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.UserAdministration.New.de-DE.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.UserAdministration.New.pt-BR.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.User.ForgetPassword.de-DE.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.User.ForgetPassword.pt-BR.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.User.Lockout.de-DE.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.User.Lockout.pt-BR.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.User.Register.de-DE.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.User.Register.pt-BR.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.User.SignIn.de-DE.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.Views.User.SignIn.pt-BR.resources
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.csproj.GenerateResource.cache
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\de-DE\TicketDesk.Localization.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\pt-BR\TicketDesk.Localization.resources.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.csproj.CopyComplete
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.dll
+C:\Tan Thanh Container\SupportTicket\TicketDesk.Localization\obj\Debug\TicketDesk.Localization.pdb
